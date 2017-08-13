@@ -2,17 +2,23 @@
 ## 3 August 2017
 ### Agenda
 - How can we make sure this group is as inclusive as it can be, in terms of scheduling, location, and ways of participating?
+  - include livestream whenever feasible
+  - schedule and advertise events as far as possible in advance
+  - stick to same day of week and same week of month whenever possible
 - September public event:
-  - Who could we get to speak?
+  - Who should be the first speaker?
+    - ideas: someone from ODS lab, director of city of Kitchener innovation lab (Karl Allen-Muncey)...?
   - Where can we host?
+    - Axonify's new location has a cafeteria designed for events
 - [Outreach Spreadsheet](https://drive.google.com/open?id=1jHJIlwfmEJLN5_8ceiAx0-BwC2AiXaqrrb3HUiLwY58)
   - Owner/driver for reaching out
 - [CivicTech Toolkit Templates](https://drive.google.com/open?id=0ByU26nLp5t3PSWU1bW9BSnJjNEE)
   - What should we be using from this?
 - Handling of organizational accounts?
-  - (eg: Facebook, Twitter, Info Email, Meetup, Web Hosting, Medium?)
+  - (eg: Facebook, Twitter, Info Email, Meetup, Web Hosting, Medium)
+  - Kristina will put together a LastPass and share it among cofounders
 - Project Management Tooling?
-  - Proposal: Stick to GitHub & Google Drive, until they don't serve our purposes
+  - Stick to GitHub until it fails to meet our needs
 ### Minutes
 
 ### Action Items
