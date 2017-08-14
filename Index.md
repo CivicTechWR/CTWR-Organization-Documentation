@@ -1,3 +1,3 @@
 # Housekeeping
-[[Meeting Minutes]]
-[[Organizational Account Info]]
+* [[Meeting Minutes]]
+* [[Organizational Account Info]]
