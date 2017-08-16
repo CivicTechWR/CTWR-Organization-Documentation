@@ -14,4 +14,5 @@ Once a month, we host a leader from the community to speak to the group. This co
 During our events, we also provide space and time for people to come and work together on civic tech projects. Ideally, any space we use has great WiFi, power, and whiteboards.
 
 Let us know if you have any questions!
-CivicTechWR Co-Founders
+
+[CivicTechWR Co-Founders]
