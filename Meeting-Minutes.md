@@ -2,12 +2,17 @@
 
 ## 17 Aug 2017
 - Account info & delegation
+  - See 
 - Scheduling event #1
   - Speaker
+    - Work through Justin @ City of Kitchener
   - Date/time
+    - Tuesday Sept 26 5:30pm-8:30pm
   - Location
+    - Central location (smile.io option) vs free parking (Axonify option)
+    - Size - first event may be small group (Axonify has a huge space)
   - Meetup
-  - food?
+  - Food?
 - CivicTech Toolkit beta published
 - 
 
