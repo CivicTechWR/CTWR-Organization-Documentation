@@ -11,10 +11,14 @@
   - Location
     - Central location (smile.io option) vs free parking (Axonify option)
     - Size - first event may be small group (Axonify has a huge space)
+    - ToDo: Create template for venue requests
   - Meetup
-  - Food?
+    - Will get information for meeting 1 finalized then create/publish on all social meeting
+  - Food
+    - Pizza, will organize 2 days prior to meeting based on attendance expectations 
+    - Will ask participants to contribute $$
 - CivicTech Toolkit beta published
-- 
+    - ToDo: Update/refresh repository with live content
 
 ## 3 August 2017
 ### Agenda
