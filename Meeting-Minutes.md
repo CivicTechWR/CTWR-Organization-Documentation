@@ -1,4 +1,16 @@
 # Meeting Minutes
+
+## 17 Aug 2017
+- Account info & delegation
+- Scheduling event #1
+  - Speaker
+  - Date/time
+  - Location
+  - Meetup
+  - food?
+- CivicTech Toolkit beta published
+- 
+
 ## 3 August 2017
 ### Agenda
 - How can we make sure this group is as inclusive as it can be, in terms of scheduling, location, and ways of participating?
