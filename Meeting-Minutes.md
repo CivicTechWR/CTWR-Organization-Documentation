@@ -2,23 +2,25 @@
 
 ## 17 Aug 2017
 - Account info & delegation
-  - See 
+  - See [[Organizational-Account-Info]]
 - Scheduling event #1
   - Speaker
     - Work through Justin @ City of Kitchener
+    - Lightening Talks?
   - Date/time
     - Tuesday Sept 26 5:30pm-8:30pm
   - Location
     - Central location (smile.io option) vs free parking (Axonify option)
     - Size - first event may be small group (Axonify has a huge space)
-    - ToDo: Create template for venue requests
+    - TODO: [#3](https://github.com/CivicTechWR/OrgOrg/issues/3): Create template for venue requests
   - Meetup
     - Will get information for meeting 1 finalized then create/publish on all social meeting
+    - TODO: [#7](https://github.com/CivicTechWR/OrgOrg/issues/7): create meetup org account, add organizers
   - Food
     - Pizza, will organize 2 days prior to meeting based on attendance expectations 
     - Will ask participants to contribute $$
 - CivicTech Toolkit beta published
-    - ToDo: Update/refresh repository with live content
+    - TODO: [#4](https://github.com/CivicTechWR/OrgOrg/issues/4) Update/refresh repository with live content
 
 ## 3 August 2017
 ### Agenda
