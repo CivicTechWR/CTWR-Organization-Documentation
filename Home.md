@@ -4,3 +4,4 @@
 
 # Templates
 * [[Speaker Invite]]
+* [[Location Solicitation]]
