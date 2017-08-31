@@ -1,5 +1,21 @@
 # Meeting Minutes
 
+## 31 Aug 2017
+- Key goal: plan 1st Meetup
+  - Date: Tuesday Sept 26, 5:30-8:30
+  - Location: TBD
+  - Agenda:
+     - Intros all around
+     - Lightning talks:
+        - Justin @ Kitchener suggested they could provide speakers who could talk about:  Digital Kitchener, federal gov't smart cities challenge, building one of Canada's first city wide IoT networks, open data program...
+        - do you have topics?
+     - Topic & speaker suggestions/voting for future sessions
+     - Project discussions
+  - To do [put names/deadlines on these]:
+     - Create Meetup Group
+     - Create Meetup Event
+     - Find space. Try smile.io first
+
 ## 17 Aug 2017
 - Account info & delegation
   - See [[Organizational-Account-Info]]
