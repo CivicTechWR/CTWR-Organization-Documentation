@@ -7,14 +7,16 @@
   - Agenda:
      - Intros all around
      - Lightning talks:
-        - Justin @ Kitchener suggested they could provide speakers who could talk about:  Digital Kitchener, federal gov't smart cities challenge, building one of Canada's first city wide IoT networks, open data program...
-        - do you have topics?
+        - Justin RE: Kitchener suggested they could provide speakers who could talk about:  Digital Kitchener, federal gov't smart cities challenge, building one of Canada's first city wide IoT networks, open data program...
+        - Karl RE: Kitchener Innovation Lab
+        - Theresa S RE: Open Food Network (OpenFoodNetwork.ca)
+        - Open floor
      - Topic & speaker suggestions/voting for future sessions
      - Project discussions
   - To do [put names/deadlines on these]:
-     - Create Meetup Group
+     - Create Meetup Group [Done]
      - Create Meetup Event
-     - Find space. Try smile.io first
+     - Find space. Try smile.io first [Initial request sent to Smile.io]
 
 ## 17 Aug 2017
 - Account info & delegation
