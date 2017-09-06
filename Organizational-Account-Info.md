@@ -1,4 +1,4 @@
-| Site | Account Password Owner | Admin(s)/Editors |
+| Site | Keeper of password | Admin(s)/Editors |
 |---|---|---|
 |[Facebook](https://www.facebook.com/CivicTechWR/) | Kristina | Kristina, Doug, Jon |
 |[Twitter](https://twitter.com/CivicTechWR) | Kristina | Kristina, Doug, Jon |
@@ -7,4 +7,5 @@
 |hello@civte.ch | Jon | Jon, Kristina |
 |[civte.ch](http://civte.ch)| Jon | Jon, Kristina |
 |civictechwr@gmail.com | Kristina | Kristina, Doug |
-|www.civictechwr.org | Kristina | N/A|
+|www.civictechwr.org | Kristina | N/A |
+|[meetup](https://www.meetup.com/CivicTechWR) | Kristina | Kristina, Doug, Jon |
