@@ -5,3 +5,6 @@
 # Templates
 * [[Speaker Invite]]
 * [[Location Solicitation]]
+
+# Projects
+* [[Waterloo Region Votes]]
