@@ -12,8 +12,9 @@ In Waterloo Region municipal elections are the most critical for use to cover, b
 * :white_check_mark: [2019 Federal election](https://en.wikipedia.org/wiki/2019_Canadian_federal_election)
   - https://github.com/CivicTechWR/WRVotesFed
   - https://civictechwr.github.io/WRVotesFed/
-* :x: [2021 Federal election](https://en.wikipedia.org/wiki/2021_Canadian_federal_election)
+* :x: [2021 Federal election](https://en.wikipedia.org/wiki/2021_Canadian_federal_election) (September 20, 2021)
   - we did not cover this one
+  - CivicTechWR had not yet restarted after the pandemic
 * :white_check_mark: [2022 municipal election](https://en.wikipedia.org/wiki/2022_Ontario_municipal_elections) (October 24, 2022)
   - https://waterlooregionvotes.org/
   - https://github.com/CivicTechWR/WRVotesMunicipal2022
