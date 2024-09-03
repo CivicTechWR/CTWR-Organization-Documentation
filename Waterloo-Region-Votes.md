@@ -17,7 +17,6 @@ In Waterloo Region municipal elections are the most critical for use to cover, b
   - we did not cover this one
   - CivicTechWR had not yet restarted after the pandemic
 * :white_check_mark: [2022 municipal election](https://en.wikipedia.org/wiki/2022_Ontario_municipal_elections) (October 24, 2022)
-  - https://waterlooregionvotes.org/
   - https://github.com/CivicTechWR/WRVotesMunicipal2022
   - https://civictechwr.github.io/WRVotesMunicipal2022/
 
