@@ -7,7 +7,7 @@ In Waterloo Region municipal elections are the most critical for use to cover, b
 
 * :x: [2018 municipal election](https://en.wikipedia.org/wiki/2018_Ontario_municipal_elections) (June 7, 2018)
 * :white_check_mark: [2018 municipal election](https://en.wikipedia.org/wiki/2018_Ontario_municipal_elections) (October 22, 2018)
-  - https://github.com/CivicTechWR/WRvotes
+  - https://github.com/CivicTechWR/WRvoteshttps://github.com/CivicTechWR/CTWR-OrgOrg/wiki/_new
   - https://2018-municipal.waterlooregionvotes.org/
   - https://civictechwr.github.io/WRVotes/
 * :white_check_mark: [2019 Federal election](https://en.wikipedia.org/wiki/2019_Canadian_federal_election)
@@ -22,7 +22,7 @@ In Waterloo Region municipal elections are the most critical for use to cover, b
 
 # Future Elections
 
-* [45th Federal election](https://en.wikipedia.org/wiki/45th_Canadian_federal_election) (October 20, 2026 or earlier)
+* [45th Federal election](https://en.wikipedia.org/wiki/45th_Canadian_federal_election) (October 20, 2025 or earlier)
 * [44th Ontario election](https://en.wikipedia.org/wiki/44th_Ontario_general_election) (June 4, 2026 or earlier)
 * 2026 municipal election (October 26, 2026)
 
