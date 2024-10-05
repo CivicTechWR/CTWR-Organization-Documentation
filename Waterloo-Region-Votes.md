@@ -5,7 +5,7 @@ The current/last election page will be found at:
 
 In Waterloo Region municipal elections are the most critical for use to cover, becuase of how many candidates there are. But we have tried covering Federal or [Provincial](https://en.wikipedia.org/wiki/List_of_Ontario_general_elections) elections:
 
-* :x: [2018 municipal election](https://en.wikipedia.org/wiki/2018_Ontario_municipal_elections) (June 7, 2018)
+* :x: [2018 provincial election](https://en.wikipedia.org/wiki/2018_Ontario_general_election) (June 7, 2018)
 * :white_check_mark: [2018 municipal election](https://en.wikipedia.org/wiki/2018_Ontario_municipal_elections) (October 22, 2018)
   - https://github.com/CivicTechWR/WRvoteshttps://github.com/CivicTechWR/CTWR-OrgOrg/wiki/_new
   - https://2018-municipal.waterlooregionvotes.org/
@@ -16,6 +16,7 @@ In Waterloo Region municipal elections are the most critical for use to cover, b
 * :x: [2021 Federal election](https://en.wikipedia.org/wiki/2021_Canadian_federal_election) (September 20, 2021)
   - we did not cover this one
   - CivicTechWR had not yet restarted after the pandemic
+* :x: [2022 provincial election](https://en.wikipedia.org/wiki/2022_Ontario_general_election) (June 2, 2022)
 * :white_check_mark: [2022 municipal election](https://en.wikipedia.org/wiki/2022_Ontario_municipal_elections) (October 24, 2022)
   - https://github.com/CivicTechWR/WRVotesMunicipal2022
   - https://civictechwr.github.io/WRVotesMunicipal2022/
