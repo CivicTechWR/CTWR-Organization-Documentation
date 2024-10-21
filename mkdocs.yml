@@ -1,0 +1,13 @@
+---
+site_name: CivicTechWR Documentation
+docs_dir: 'wiki_content'
+site_dir: '.'
+use_directory_urls: false
+theme:
+  name: material
+plugins:
+  - search
+  - awesome-pages
+markdown_extensions:
+  - toc:
+      permalink: true
