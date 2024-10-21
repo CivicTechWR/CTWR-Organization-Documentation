@@ -1,0 +1,4 @@
+title: Archive
+nav:
+  - index.md
+  - ... # This will include other archived files
