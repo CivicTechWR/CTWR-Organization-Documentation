@@ -1,8 +1,8 @@
 # CivicTechWR Organization and Documentation
 
-Welcome to the CivicTechWR organization and documentation repository. Here you'll find all the policies, guidelines, and templates needed for smooth operation and project management.
+Welcome to the CivicTechWR organization and documentation repository. Here, you’ll find all the policies, guidelines, and templates you need for smooth operations and effective project management.
 
-Do you want to contribute? Take a look at our [Currently Happening in CTWR?](https://github.com/orgs/CivicTechWR/projects/10/views/3) to see where you can make a difference!
+Interested in contributing? Check out our [Currently Happening in CTWR](https://github.com/orgs/CivicTechWR/projects/10/views/3) project board to see where you can make a difference!
 
 ## Links
 - Repositories for CTWR Initiatives
