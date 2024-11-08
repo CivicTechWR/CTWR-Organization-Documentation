@@ -1,0 +1,8 @@
+# docs/_pages.yml
+- Home: index.md
+- Policies:
+  - Code of Conduct: policies/Code_of_Conduct.md
+  - Diversity and Inclusion Policy: policies/Diversity_and_Inclusion_Policy.md
+- Guidelines:
+- Meeting Minutes:
+- Templates:
