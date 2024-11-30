@@ -1,1 +1,6 @@
 mkdocs-material
+mkdocs-awesome-pages-plugin
+mkdocs-minify-plugin
+mkdocs-git-revision-date-localized-plugin
+pymdown-extensions
+pygments
