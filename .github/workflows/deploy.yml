@@ -29,18 +29,19 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install --cache-dir ~/.cache/pip -r requirements.txt
+          pip install --cache-dir ~/pip_cache -r requirements.txt
 
-      # Step 4: Ensure pip cache directory exists
-      - name: Ensure pip cache directory exists
+      # Step 4: Debug logging to ensure pip cache is created
+      - name: Check if pip cache exists
         run: |
-          mkdir -p ~/.cache/pip
+          echo "Checking if pip cache directory exists..."
+          ls -l ~/pip_cache
 
       # Step 5: Cache pip dependencies
       - name: Cache pip dependencies
         uses: actions/cache@v3
         with:
-          path: ~/.cache/pip
+          path: ~/pip_cache
           key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
           restore-keys: |
             ${{ runner.os }}-pip-
@@ -68,4 +69,4 @@ jobs:
       - name: Cleanup
         run: |
           echo "Post-job cleanup"
-          rm -rf ~/.cache/pip  # Optional: You can remove this if caching is working fine
+          rm -rf ~/pip_cache  # Optional: You can remove this if caching is working fine
