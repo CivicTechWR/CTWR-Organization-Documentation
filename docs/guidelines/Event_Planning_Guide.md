@@ -5,26 +5,31 @@ This guide provides a structured approach to planning events within the CivicTec
 ## Steps for Planning an Event
 
 ### 1. Define the Event
+
 - Purpose
 - Audience
 - Goals
 
 ### 2. Logistics
+
 - Date and Time
 - Venue
 - Equipment
 
 ### 3. Promotion
+
 - Marketing Materials
 - Channels (social media, emails, posters)
 - Timeline
 
 ### 4. Execution
+
 - Team Roles and Responsibilities
 - On-the-Day Checklist
 - Contingency Plans
 
 ### 5. Post-Event
+
 - Follow-Up with Participants
 - Feedback Collection
 - Reporting and Reflection

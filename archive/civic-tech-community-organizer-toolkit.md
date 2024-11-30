@@ -31,12 +31,14 @@ This toolkit provides key tips to help you establish and run successful hacknigh
 
 The main goal of civic tech groups is to bring together individuals from diverse backgrounds to solve civic challenges using technology and design, typically through weekly “hacknights.”
 
-### Common Characteristics of Civic Tech Hacknights:
+### Common Characteristics of Civic Tech Hacknights
+
 - **Regular Meetings:** Weekly, biweekly, or monthly gatherings lasting 2.5-3 hours.
 - **Structured Agenda:** Introductions, optional presentations, and project hacking.
 - **Inclusivity:** Civic Tech 101 sessions to onboard new members.
 
-### Key Ingredients for a Successful Hacknight:
+### Key Ingredients for a Successful Hacknight
+
 1. **Environment:** Create a collaborative and welcoming space.
 2. **Attendance:** Encourage diverse participation for cross-sector collaboration.
 3. **Projects:** Provide at least two project options to engage participants.
@@ -47,10 +49,12 @@ The main goal of civic tech groups is to bring together individuals from diverse
 ## How to Start a Civic Tech Community Group
 
 ### 1. Find Co-Founders
+
 - Identify passionate individuals to share responsibilities.
 - Reach out to colleagues or your network to build a founding team.
 
 ### 2. Organize a Trial Hacknight
+
 - Test the concept with a small, prototype event.
 - Promote through social media or platforms like Meetup.com.
 - Seed the event with at least one project idea.
@@ -60,14 +64,17 @@ The main goal of civic tech groups is to bring together individuals from diverse
 ## How to Organize a Civic Tech Hacknight
 
 ### 1. Find a Venue
+
 - Look for accessible locations like tech firms, shared workspaces, libraries, or community centers.
 - Ensure basic amenities like Wi-Fi, projectors, and workspaces.
 
 ### 2. Find Speakers (Optional)
+
 - Speakers can provide insights and attract attendees.
 - Rotate speakers monthly or invite individuals with relevant expertise.
 
 ### 3. Send Invitations
+
 - Invite technologists, designers, civil servants, and community activists.
 - Use email templates or social media to publicize the event.
 
@@ -84,6 +91,7 @@ The main goal of civic tech groups is to bring together individuals from diverse
 ## Templates You Can Adapt
 
 These templates can be customized for your community:
+
 - Agenda and MC Talking Points
 - Civic Tech 101 Slides
 - Code of Conduct
@@ -102,9 +110,11 @@ These templates can be customized for your community:
 ## Frequently Asked Questions (FAQs)
 
 ### How do civic tech hacknights differ from other hacknights?
+
 Civic tech hacknights include a civic-focused element, solving public interest issues in addition to technical challenges.
 
 ### How can I connect local governments and activists?
+
 Collaboration starts with outreach and communication. Use platforms like Slack and Meetup to engage both groups.
 
 ---
