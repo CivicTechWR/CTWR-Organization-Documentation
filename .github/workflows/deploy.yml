@@ -1,57 +1,72 @@
----
-  name: Deploy Documentation
-  on:
-    push:
-      branches:
-        - main
-    workflow_dispatch:
-  
-  jobs:
-    deploy:
-      runs-on: ubuntu-latest
-      permissions:
-        contents: write
-  
-      steps:
-        # Step 1: Checkout the repository
-        - name: Checkout code
-          uses: actions/checkout@v4
-          with:
-            fetch-depth: 0
-  
-        # Step 2: Set up Python environment
-        - name: Set up Python
-          uses: actions/setup-python@v5
-          with:
-            python-version: "3.11"
-            cache: pip
-  
-        # Step 3: Cache MkDocs dependencies for faster builds
-        - name: Cache MkDocs dependencies
-          uses: actions/cache@v3
-          with:
-            path: .cache
-            key: ${{ runner.os }}-mkdocs-v1-${{ hashFiles('mkdocs.yml') }}
-            restore-keys: |
-              ${{ runner.os }}-mkdocs-v1-
-  
-        # Step 4: Install required Python dependencies
-        - name: Install dependencies
-          run: |
-            python -m pip install --upgrade pip
-            pip install \
-              mkdocs-material \
-              mkdocs-awesome-pages-plugin \
-              pymdown-extensions \
-              pygments
-  
-        # Step 5: Validate MkDocs configuration
-        - name: Validate MkDocs configuration
-          run: mkdocs build --config-file mkdocs.yml --strict
-  
-        # Step 6: Build and deploy documentation
-        - name: Build and deploy documentation
-          run: mkdocs gh-deploy --force
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
+name: Deploy Documentation
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # Step 2: Set up Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      # Step 3: Install required Python dependencies from requirements.txt
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install --cache-dir ~/pip_cache -r requirements.txt
+
+      # Step 4: Debug logging to ensure pip cache is created
+      - name: Check if pip cache exists
+        run: |
+          echo "Checking if pip cache directory exists..."
+          ls -l ~/pip_cache
+
+      # Step 5: Cache pip dependencies
+      - name: Cache pip dependencies
+        uses: actions/cache@v3
+        with:
+          path: ~/pip_cache
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      # Step 6: Cache MkDocs dependencies after pip cache
+      - name: Cache MkDocs dependencies
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache
+          key: ${{ runner.os }}-mkdocs-v1-${{ hashFiles('mkdocs.yml') }}
+          restore-keys: |
+            ${{ runner.os }}-mkdocs-v1-
+
+      # Step 7: Validate MkDocs configuration
+      - name: Validate MkDocs configuration
+        run: mkdocs build --config-file mkdocs.yml --strict
+
+      # Step 8: Build and deploy documentation
+      - name: Build and deploy documentation
+        run: mkdocs gh-deploy --force
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Post-job cleanup (optional step to remove any temporary files if needed)
+      - name: Cleanup
+        run: |
+          echo "Post-job cleanup"
+          rm -rf ~/pip_cache  # Optional: You can remove this if caching is working fine
