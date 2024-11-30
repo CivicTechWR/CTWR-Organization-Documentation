@@ -31,7 +31,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install --cache-dir ~/.cache/pip -r requirements.txt
 
-      # Step 4: Cache pip dependencies after install
+      # Step 4: Ensure pip cache directory exists
+      - name: Ensure pip cache directory exists
+        run: |
+          mkdir -p ~/.cache/pip
+
+      # Step 5: Cache pip dependencies
       - name: Cache pip dependencies
         uses: actions/cache@v3
         with:
@@ -40,7 +45,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pip-
 
-      # Step 5: Cache MkDocs dependencies after pip cache
+      # Step 6: Cache MkDocs dependencies after pip cache
       - name: Cache MkDocs dependencies
         uses: actions/cache@v3
         with:
@@ -49,11 +54,11 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-mkdocs-v1-
 
-      # Step 6: Validate MkDocs configuration
+      # Step 7: Validate MkDocs configuration
       - name: Validate MkDocs configuration
         run: mkdocs build --config-file mkdocs.yml --strict
 
-      # Step 7: Build and deploy documentation
+      # Step 8: Build and deploy documentation
       - name: Build and deploy documentation
         run: mkdocs gh-deploy --force
         env:
