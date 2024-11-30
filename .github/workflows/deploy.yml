@@ -31,11 +31,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # Step 4: Cache MkDocs dependencies for faster builds
+      # Step 4: Cache MkDocs dependencies after install
       - name: Cache MkDocs dependencies
         uses: actions/cache@v3
         with:
-          path: .cache
+          path: ~/.cache/pip
           key: ${{ runner.os }}-mkdocs-v1-${{ hashFiles('mkdocs.yml') }}
           restore-keys: |
             ${{ runner.os }}-mkdocs-v1-
@@ -49,3 +49,9 @@ jobs:
         run: mkdocs gh-deploy --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Post-job cleanup (optional step to remove any temporary files if needed)
+      - name: Cleanup
+        run: |
+          echo "Post-job cleanup"
+          rm -rf ~/.cache/pip  # You can remove this if caching is working fine
