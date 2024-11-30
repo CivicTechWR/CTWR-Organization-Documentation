@@ -31,7 +31,12 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # Step 4: Cache MkDocs dependencies after install
+      # Step 4: Create a cache directory explicitly for pip cache if it doesn't exist
+      - name: Create pip cache directory
+        run: |
+          mkdir -p ~/.cache/pip
+
+      # Step 5: Cache MkDocs dependencies after install
       - name: Cache MkDocs dependencies
         uses: actions/cache@v3
         with:
@@ -40,11 +45,11 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-mkdocs-v1-
 
-      # Step 5: Validate MkDocs configuration
+      # Step 6: Validate MkDocs configuration
       - name: Validate MkDocs configuration
         run: mkdocs build --config-file mkdocs.yml --strict
 
-      # Step 6: Build and deploy documentation
+      # Step 7: Build and deploy documentation
       - name: Build and deploy documentation
         run: mkdocs gh-deploy --force
         env:
