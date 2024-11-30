@@ -5,26 +5,32 @@ CivicTechWR is a community group dedicated to solving local issues through desig
 ## Sections
 
 ### Policies
-- [Code of Conduct](policies/Code_of_Conduct.md)
-- [Diversity and Inclusion Policy](policies/Diversity_and_Inclusion_Policy.md)
+Explore the principles and rules guiding our community:
+- [Code of Conduct](policies/Code_of_Conduct.md): Our standards for respectful and inclusive behavior.
+- [Diversity and Inclusion Policy](policies/Diversity_and_Inclusion_Policy.md): Promoting diversity and equity.
 
 ### Guidelines
-- [Communication Guidelines](guidelines/Communication_Guidelines.md)
-- [Contribution Guidelines](guidelines/Contribution_Guidelines.md)
-- [Event Planning Guide](guidelines/Event_Planning_Guide.md)
-- [Social Media Guidelines](guidelines/SocialMedia_Guidelines.md)
+Learn how to communicate, contribute, and plan effectively:
+- [Communication Guidelines](guidelines/Communication_Guidelines.md): Best practices for communication.
+- [Contribution Guidelines](guidelines/Contribution_Guidelines.md): Steps for getting involved and contributing.
+- [Event Planning Guide](guidelines/Event_Planning_Guide.md): Organizing events and meetups.
+- [Social Media Guidelines](guidelines/SocialMedia_Guidelines.md): Managing our social media presence.
 
 ### Meeting Minutes
+Keep track of past discussions and decisions:
 - [2024-06-19 Meeting Minutes](meeting-minutes/2024-06-19_Meeting_Minutes.md)
 
 ### Templates
+Useful templates for effective collaboration:
 - [Event Planning Template](ctwr-templates/Event_Planning_Template.md)
 - [Meeting Minutes Template](ctwr-templates/Meeting_Minutes_Template.md)
 
 ### FAQ
+Find answers to common questions:
 - [Frequently Asked Questions](faq/index.md)
 
 ## Get Involved
+
 Explore the documentation to find out how you can contribute to our projects, attend events, and collaborate with others in the CivicTechWR community.
 
 ### Attend Our Meetups
