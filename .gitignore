@@ -65,3 +65,4 @@ static/
 
 # Miscellaneous
 *.locksite/
+site/
