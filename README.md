@@ -7,6 +7,7 @@ Welcome to the CivicTechWR organization and documentation repository. Here, youâ
 Interested in contributing? Check out our [Currently Happening in CTWR](https://github.com/orgs/CivicTechWR/projects/10/views/3) project board to see where you can make a difference!
 
 ## Links
+
 - Repositories for CTWR Initiatives
   - [Waterloo Region Votes](https://github.com/CivicTechWR/WRVotesFed2025)
   - [Connected KW](https://github.com/CivicTechWR/connectedkw)
@@ -15,7 +16,9 @@ Interested in contributing? Check out our [Currently Happening in CTWR](https://
   - [Project Template](https://github.com/CivicTechWR/ProjectTemplate)
 
 ## Quickstart Guide
+
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/yourusername/CTWR-Organization-Documentation.git
-   cd CTWR-Organization-Documentation
+   cd CTWR-Organization-Documentation```
