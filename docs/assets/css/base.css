@@ -1,57 +1,91 @@
-/* Updated content for base.css */
+/* Base.css: Reset and global styles */
 
+/* Typography */
 :root {
-    /* Typography */
-    --body-font-family: 'DM Sans', sans-serif;
-    --h1-font-size: 48px;
-    --h2-font-size: 40px;
-    --h3-font-size: 36px;
-    --nav-font-size: 16px; /* Updated navbar font size */
-    --toc-font-size: 18px; /* Updated ToC font size */
-  
-    /* Colors */
-    --primary-color: #FC6C6D;
-    --secondary-color: #2D6F72;
-    --section-bg-color: #f9f9f9;
-    --white-color: #ffffff;
-    --dark-color: #000000;
-    --text-color: #717275;
-    --border-color: #e9eaeb;
-  }
-  
-  body {
-    font-family: var(--body-font-family);
-    background-color: var(--white-color);
-    color: var(--text-color);
-  }
-  
-  h1, h2, h3, h4, h5, h6 {
-    font-family: var(--body-font-family);
-    color: var(--dark-color);
+    --font-family-base: 'DM Sans', sans-serif;
+    --font-size-base: 16px;
+    --line-height-base: 1.6;
+    --color-primary: #2D6F72; /* Emphasize CivicTechWR green */
+    --color-secondary: #000000; /* Dark for contrast */
+    --color-light: #ffffff; /* White background */
+    --color-text: #717275; /* Subtle text color */
+    --color-border: #e9eaeb; /* Neutral border color */
+}
+
+body {
+    font-family: var(--font-family-base);
+    font-size: var(--font-size-base);
+    line-height: var(--line-height-base);
+    color: var(--color-text);
+    background-color: var(--color-light);
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
     font-weight: 700;
-  }
-  
-  h1 {
-    font-size: var(--h1-font-size);
-  }
-  
-  h2 {
-    font-size: var(--h2-font-size);
-    color: var(--secondary-color);
-  }
-  
-  h3 {
-    font-size: var(--h3-font-size);
-  }
-  
-  /* General link styles */
-  a {
-    color: var(--primary-color);
+    color: var(--color-secondary);
+    margin: 0;
+}
+
+a {
+    color: var(--color-primary);
     text-decoration: none;
-    transition: color 0.3s;
-  }
-  
-  a:hover {
-    color: var(--secondary-color);
-  }
-  
+}
+
+a:hover {
+    color: var(--color-secondary);
+}
+
+/* Utility Classes */
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.section-padding {
+    padding: 4rem 0;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-primary {
+    color: var(--color-primary);
+}
+
+/* Hero Section */
+.hero {
+    background: linear-gradient(to right, #2D6F72, #ffffff);
+    color: var(--color-light);
+    text-align: center;
+    padding: 60px 20px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.hero h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.hero p {
+    font-size: 18px;
+    color: #f9f9f9;
+}
+
+.hero a {
+    color: var(--color-light);
+    font-weight: bold;
+    padding: 10px 20px;
+    border: 2px solid var(--color-light);
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.hero a:hover {
+    background-color: var(--color-light);
+    color: var(--color-primary);
+}

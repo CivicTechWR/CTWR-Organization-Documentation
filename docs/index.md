@@ -24,14 +24,14 @@ Learn how to communicate, contribute, and plan effectively:
 
 Keep track of past discussions and decisions:
 
-- [2024-06-19 Meeting Minutes](meeting-minutes/2024-06-19_Meeting_Minutes.md)
+- [2024-06-19 Recap](recaps/2024-06-19_recap.md)
 
 ### Templates
 
 Useful templates for effective collaboration:
 
 - [Event Planning Template](ctwr-templates/Event_Planning_Template.md)
-- [Meeting Minutes Template](ctwr-templates/Meeting_Minutes_Template.md)
+- [Recaps Template](ctwr-templates/Recaps_Template.md)
 
 ### FAQ
 

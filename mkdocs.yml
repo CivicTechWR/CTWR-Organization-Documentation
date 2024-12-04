@@ -11,8 +11,8 @@ theme:
     - search.suggest
     - search.highlight
   palette:
-    primary: blue
-    accent: blue
+    primary: white
+    accent: indigo
     toggle:
       icon: material/brightness-4
       name: Switch
@@ -20,7 +20,7 @@ theme:
   font:
     text: "Roboto, Arial, sans-serif"
     code: "Roboto Mono, Courier New, monospace"
-  logo: assets/civictechwr_logo_white.png
+  logo: assets/civictechwr_logo_black.png
   favicon: assets/civictechwr_logo_white.png
 # Plugins
 plugins:
@@ -52,7 +52,7 @@ nav:
           - Guide: guidelines/Event_Planning_Guide.md
           - Template: ctwr-templates/Event_Planning_Template.md
       - Social Media Guidelines: guidelines/SocialMedia_Guidelines.md
-  - Meeting Minutes:
+  - Recaps:
       - Overview: recaps/index.md # High-level overview for meeting minutes
       - June 18, 2024: recaps/2024-06-19_recap.md
   - Templates:
