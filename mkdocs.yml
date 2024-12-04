@@ -11,11 +11,15 @@ theme:
     - search.suggest
     - search.highlight
   palette:
-    primary: indigo
-    accent: indigo
+    primary: blue
+    accent: blue
+    toggle:
+      icon: material/brightness-4
+      name: Switch
+    scheme: default # or light/dark based on preference
   font:
-    text: Roboto
-    code: Roboto Mono
+    text: "Roboto, Arial, sans-serif"
+    code: "Roboto Mono, Courier New, monospace"
   logo: assets/civictechwr_logo_white.png
   favicon: assets/civictechwr_logo_white.png
 # Plugins
@@ -37,11 +41,11 @@ nav:
       - Frequently Asked Questions: faq/index.md
       # - Getting Started: faq/getting_started.md  # This page doesn't exist yet but you can be the one to build it.
   - Policies:
-      - Overview: policies/index.md  # High-level overview for policies
+      - Overview: policies/index.md # High-level overview for policies
       - Code of Conduct: policies/Code_of_Conduct.md
       - Diversity and Inclusion Policy: policies/Diversity_and_Inclusion_Policy.md
   - Guidelines:
-      - Overview: guidelines/index.md  # High-level overview for guidelines
+      - Overview: guidelines/index.md # High-level overview for guidelines
       - Communication Guidelines: guidelines/Communication_Guidelines.md
       - Contribution Guidelines: guidelines/Contribution_Guidelines.md
       - Event Planning:
@@ -49,10 +53,10 @@ nav:
           - Template: ctwr-templates/Event_Planning_Template.md
       - Social Media Guidelines: guidelines/SocialMedia_Guidelines.md
   - Meeting Minutes:
-      - Overview: meeting-minutes/index.md  # High-level overview for meeting minutes
-      - June 18, 2024: meeting-minutes/2024-06-19_Meeting_Minutes.md
+      - Overview: recaps/index.md # High-level overview for meeting minutes
+      - June 18, 2024: recaps/2024-06-19_recap.md
   - Templates:
-      - Overview: ctwr-templates/index.md  # High-level overview for templates
+      - Overview: ctwr-templates/index.md # High-level overview for templates
       - Event Planning Template: ctwr-templates/Event_Planning_Template.md
       - Meeting Minutes Template: ctwr-templates/Meeting_Minutes_Template.md
   - Archive:
@@ -72,3 +76,8 @@ extra:
       link: https://facebook.com/civictechwr
     - icon: fontawesome/solid/envelope
       link: mailto:civictechwr@gmail.com
+
+extra_css:
+  - assets/css/base.css # Base styles
+  - assets/css/components.css # Component-specific styles
+  - assets/css/overrides.css # Theme overrides

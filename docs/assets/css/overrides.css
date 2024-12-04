@@ -1,0 +1,33 @@
+/* Override Material Theme Defaults */
+.md-nav__item a {
+  color: var(--secondary-color);
+  font-size: var(--menu-font-size);
+}
+
+.md-nav__item a:hover {
+  color: var(--primary-color);
+}
+
+.md-header {
+  background-color: var(--dark-color);
+}
+
+.md-footer {
+  background-color: var(--section-bg-color);
+  color: var(--dark-color);
+}
+/* Adjusting spacing for ToC sidebar */
+.md-sidebar {
+    padding: 20px 15px;
+  }
+  
+  /* Increasing spacing between ToC links */
+  .md-sidebar__item {
+    margin-bottom: 10px;
+  }
+  
+  /* Adding custom styles for the Home link */
+  .md-nav__item:first-child a {
+    font-size: 18px; /* Slightly larger for the home link */
+    font-weight: bold;
+  }

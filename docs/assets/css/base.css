@@ -1,0 +1,57 @@
+/* Updated content for base.css */
+
+:root {
+    /* Typography */
+    --body-font-family: 'DM Sans', sans-serif;
+    --h1-font-size: 48px;
+    --h2-font-size: 40px;
+    --h3-font-size: 36px;
+    --nav-font-size: 16px; /* Updated navbar font size */
+    --toc-font-size: 18px; /* Updated ToC font size */
+  
+    /* Colors */
+    --primary-color: #FC6C6D;
+    --secondary-color: #2D6F72;
+    --section-bg-color: #f9f9f9;
+    --white-color: #ffffff;
+    --dark-color: #000000;
+    --text-color: #717275;
+    --border-color: #e9eaeb;
+  }
+  
+  body {
+    font-family: var(--body-font-family);
+    background-color: var(--white-color);
+    color: var(--text-color);
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--body-font-family);
+    color: var(--dark-color);
+    font-weight: 700;
+  }
+  
+  h1 {
+    font-size: var(--h1-font-size);
+  }
+  
+  h2 {
+    font-size: var(--h2-font-size);
+    color: var(--secondary-color);
+  }
+  
+  h3 {
+    font-size: var(--h3-font-size);
+  }
+  
+  /* General link styles */
+  a {
+    color: var(--primary-color);
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  a:hover {
+    color: var(--secondary-color);
+  }
+  

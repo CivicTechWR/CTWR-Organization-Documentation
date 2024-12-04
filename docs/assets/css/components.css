@@ -1,0 +1,84 @@
+/* Navbar */
+.navbar {
+  background-color: transparent;
+  padding: 15px;
+}
+
+.navbar .nav-link {
+  font-size: var(--menu-font-size);
+  color: var(--secondary-color);
+  margin-right: 20px;
+}
+
+.navbar .nav-link:hover {
+  color: var(--primary-color);
+  border-bottom: 2px solid var(--primary-color);
+}
+
+/* Hero Section */
+.hero {
+  background: url("../images/bg-theme.png") no-repeat center center;
+  background-size: cover;
+  padding: 150px 0;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: var(--h1-font-size);
+  color: var(--white-color);
+}
+
+.hero p {
+  font-size: var(--p-font-size);
+  color: var(--white-color);
+}
+
+.hero .cta-button {
+  background-color: var(--primary-color);
+  color: var(--white-color);
+  padding: 10px 20px;
+  border-radius: 50px;
+}
+
+/* Buttons */
+.btn-primary {
+  background-color: var(--primary-color);
+  color: var(--white-color);
+  padding: 10px 20px;
+  border-radius: 50px;
+}
+
+.btn-primary:hover {
+  background-color: var(--secondary-color);
+}
+/* Top Navigation Links */
+.md-nav__item a {
+  font-size: var(--nav-font-size);
+  font-weight: 700;
+  color: var(--link-color);
+  text-decoration: none;
+  padding: 10px 15px;
+}
+
+.md-nav__item a:hover {
+  color: var(--secondary-color);
+  text-decoration: underline;
+}
+/* ToC Header */
+.md-sidebar__title {
+  font-size: var(--toc-font-size);
+  font-weight: 700;
+  color: var(--dark-color);
+}
+
+/* ToC Links */
+.md-sidebar__item a {
+  font-size: var(--toc-font-size);
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+.md-sidebar__item a:hover {
+  color: var(--secondary-color);
+  text-decoration: underline;
+}
