@@ -1,3 +1,3 @@
-# meeting minutes
+# Recaps
 
-Welcome to the meeting minutes section.
+Welcome to the recaps section.
