@@ -33,9 +33,18 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Policies:
-    - Code of Conduct: policies/Code_of_Conduct.md
-    - Diversity and Inclusion Policy: policies/Diversity_and_Inclusion_Policy.md
+      - Code of Conduct: policies/Code_of_Conduct.md
+      - Diversity and Inclusion Policy: policies/Diversity_and_Inclusion_Policy.md
+  - Guidelines:
+      - Communication Guidelines: guidelines/Communication_Guidelines.md
+      - Contribution Guidelines: guidelines/Contribution_Guidelines.md
+      - Event Planning Guide: guidelines/Event_Planning_Guide.md
+      - Social Media Guidelines: guidelines/SocialMedia_Guidelines.md
+  - Meeting Minutes:
+      - 2024-06-19: meeting-minutes/2024-06-19_Meeting_Minutes.md
+  - Templates:
+      - Event Planning Template: ctwr-templates/Event_Planning_Template.md
+      - Meeting Minutes Template: ctwr-templates/Meeting_Minutes_Template.md
   - FAQ: faq/index.md
-  - Guidelines: guidelines/index.md
-  - Meeting Minutes: meeting-minutes/index.md
-  - Templates: ctwr-templates/index.md
+  - Archive:
+      - Civic Tech Organizer Toolkit: archive/civic-tech-community-organizer-toolkit.md
