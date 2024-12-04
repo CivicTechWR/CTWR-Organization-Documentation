@@ -1,5 +1,5 @@
+---
 site_name: CivicTechWR Documentation
-
 # Theme configuration
 theme:
   name: material
@@ -7,6 +7,7 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.expand
+    - navigation.breadcrumbs
     - search.suggest
     - search.highlight
   palette:
@@ -15,14 +16,14 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-
+  logo: assets/civictechwr_logo_white.png
+  favicon: assets/civictechwr_logo_white.png
 # Plugins
 plugins:
   - search
   - awesome-pages
   - minify
   - git-revision-date-localized
-
 markdown_extensions:
   - toc:
       permalink: true
@@ -32,17 +33,42 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - FAQ:
+      - Frequently Asked Questions: faq/index.md
+      # - Getting Started: faq/getting_started.md  # This page doesn't exist yet but you can be the one to build it.
   - Policies:
+      - Overview: policies/index.md  # High-level overview for policies
       - Code of Conduct: policies/Code_of_Conduct.md
       - Diversity and Inclusion Policy: policies/Diversity_and_Inclusion_Policy.md
   - Guidelines:
+      - Overview: guidelines/index.md  # High-level overview for guidelines
       - Communication Guidelines: guidelines/Communication_Guidelines.md
       - Contribution Guidelines: guidelines/Contribution_Guidelines.md
-      - Event Planning Guide: guidelines/Event_Planning_Guide.md
+      - Event Planning:
+          - Guide: guidelines/Event_Planning_Guide.md
+          - Template: ctwr-templates/Event_Planning_Template.md
       - Social Media Guidelines: guidelines/SocialMedia_Guidelines.md
   - Meeting Minutes:
-      - 2024-06-19: meeting-minutes/2024-06-19_Meeting_Minutes.md
+      - Overview: meeting-minutes/index.md  # High-level overview for meeting minutes
+      - June 18, 2024: meeting-minutes/2024-06-19_Meeting_Minutes.md
   - Templates:
+      - Overview: ctwr-templates/index.md  # High-level overview for templates
       - Event Planning Template: ctwr-templates/Event_Planning_Template.md
       - Meeting Minutes Template: ctwr-templates/Meeting_Minutes_Template.md
-  - FAQ: faq/index.md
+  - Archive:
+      - Civic Tech Community Organizer Toolkit: archive/civic-tech-community-organizer-toolkit.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/CivicTechWR
+    - icon: fontawesome/brands/slack
+      link: https://join.slack.com/t/civictechwr/shared_invite/zt-2hk4c93hv-DEIbxR_z1xKj8cZmayVHTw
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/civictechwr
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/civictechwr
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/civictechwr
+    - icon: fontawesome/solid/envelope
+      link: mailto:civictechwr@gmail.com
