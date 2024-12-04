@@ -1,0 +1,43 @@
+/* Override specific styles */
+
+/* Table of Contents */
+.toc {
+    background-color: var(--color-light);
+    border: 1px solid var(--color-border);
+    padding: 10px 15px;
+    border-radius: 8px;
+}
+
+.toc a {
+    color: var(--color-primary);
+    font-size: 14px;
+}
+
+.toc a:hover {
+    color: var(--color-secondary);
+}
+
+/* Footer */
+.footer {
+    background: var(--color-secondary);
+    color: var(--color-light);
+    text-align: center;
+    padding: 20px;
+}
+
+.footer a {
+    color: var(--color-primary);
+}
+
+.footer a:hover {
+    color: var(--color-light);
+}
+
+/* Adjust navigation hover effects */
+.navbar a {
+    transition: color 0.3s ease;
+}
+
+.navbar a:hover {
+    color: var(--color-secondary);
+}

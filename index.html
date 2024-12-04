@@ -39,10 +39,16 @@
         
         
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
-        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto,+Arial,+sans-serif:300,300i,400,400i,700,700i%7CRoboto+Mono,+Courier+New,+monospace:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto, Arial, sans-serif";--md-code-font:"Roboto Mono, Courier New, monospace"}</style>
       
     
+    
+      <link rel="stylesheet" href="assets/css/base.css">
+    
+      <link rel="stylesheet" href="assets/css/components.css">
+    
+      <link rel="stylesheet" href="assets/css/overrides.css">
     
     <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
@@ -59,7 +65,7 @@
     
     
     
-    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="white" data-md-color-accent="indigo">
   
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
@@ -84,7 +90,7 @@
   <nav class="md-header__inner md-grid" aria-label="Header">
     <a href="." title="CivicTechWR Documentation" class="md-header__button md-logo" aria-label="CivicTechWR Documentation" data-md-component="logo">
       
-  <img src="assets/civictechwr_logo_white.png" alt="logo">
+  <img src="assets/civictechwr_logo_black.png" alt="logo">
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
@@ -247,10 +253,10 @@
     
     
       <li class="md-tabs__item">
-        <a href="meeting-minutes/" class="md-tabs__link">
+        <a href="recaps/" class="md-tabs__link">
           
   
-  Meeting Minutes
+  Recaps
 
         </a>
       </li>
@@ -318,7 +324,7 @@
   <label class="md-nav__title" for="__drawer">
     <a href="." title="CivicTechWR Documentation" class="md-nav__button md-logo" aria-label="CivicTechWR Documentation" data-md-component="logo">
       
-  <img src="assets/civictechwr_logo_white.png" alt="logo">
+  <img src="assets/civictechwr_logo_black.png" alt="logo">
 
     </a>
     CivicTechWR Documentation
@@ -923,7 +929,7 @@
             
   
   <span class="md-ellipsis">
-    Meeting Minutes
+    Recaps
   </span>
   
 
@@ -933,7 +939,7 @@
         <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_5">
             <span class="md-nav__icon md-icon"></span>
-            Meeting Minutes
+            Recaps
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
@@ -944,7 +950,7 @@
   
   
     <li class="md-nav__item">
-      <a href="meeting-minutes/" class="md-nav__link">
+      <a href="recaps/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -965,7 +971,7 @@
   
   
     <li class="md-nav__item">
-      <a href="meeting-minutes/2024-06-19_Meeting_Minutes/" class="md-nav__link">
+      <a href="recaps/2024-06-19_recap/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -1077,7 +1083,7 @@
   
   
     <li class="md-nav__item">
-      <a href="ctwr-templates/Meeting_Minutes_Template/" class="md-nav__link">
+      <a href="ctwr-templates/Recaps_Template/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -1331,13 +1337,13 @@
 <h3 id="meeting-minutes">Meeting Minutes<a class="headerlink" href="#meeting-minutes" title="Permanent link">&para;</a></h3>
 <p>Keep track of past discussions and decisions:</p>
 <ul>
-<li><a href="meeting-minutes/2024-06-19_Meeting_Minutes/">2024-06-19 Meeting Minutes</a></li>
+<li><a href="recaps/2024-06-19_recap/">2024-06-19 Recap</a></li>
 </ul>
 <h3 id="templates">Templates<a class="headerlink" href="#templates" title="Permanent link">&para;</a></h3>
 <p>Useful templates for effective collaboration:</p>
 <ul>
 <li><a href="ctwr-templates/Event_Planning_Template/">Event Planning Template</a></li>
-<li><a href="ctwr-templates/Meeting_Minutes_Template/">Meeting Minutes Template</a></li>
+<li><a href="ctwr-templates/Recaps_Template/">Recaps Template</a></li>
 </ul>
 <h3 id="faq">FAQ<a class="headerlink" href="#faq" title="Permanent link">&para;</a></h3>
 <p>Find answers to common questions:</p>
@@ -1373,7 +1379,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 30, 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">December 4, 2024</span>
   </span>
 
     

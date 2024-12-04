@@ -1,0 +1,43 @@
+/* Buttons */
+button, .btn {
+    background-color: var(--color-primary);
+    color: var(--color-light);
+    border-radius: 5px;
+    padding: 10px 20px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover, .btn:hover {
+    background-color: var(--color-secondary);
+    transform: scale(1.05);
+}
+
+/* Navigation bar */
+.navbar {
+    background: var(--color-light);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 10px 20px;
+}
+
+.navbar a {
+    color: var(--color-secondary);
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.navbar a:hover {
+    color: var(--color-primary);
+}
+
+/* Hero Section */
+.hero {
+    background: linear-gradient(90deg, #2D6F72, #ffffff);
+    color: var(--color-light);
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.hero h1 {
+    font-size: 48px;
+    font-weight: 700;
+}
