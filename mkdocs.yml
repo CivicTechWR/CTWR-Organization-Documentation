@@ -58,7 +58,7 @@ nav:
   - Templates:
       - Overview: ctwr-templates/index.md # High-level overview for templates
       - Event Planning Template: ctwr-templates/Event_Planning_Template.md
-      - Meeting Minutes Template: ctwr-templates/Meeting_Minutes_Template.md
+      - Meeting Minutes Template: ctwr-templates/Recaps_Template.md
   - Archive:
       - Civic Tech Community Organizer Toolkit: archive/civic-tech-community-organizer-toolkit.md
 
