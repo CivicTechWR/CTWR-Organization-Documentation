@@ -20,7 +20,7 @@ Learn how to communicate, contribute, and plan effectively:
 - [Event Planning Guide](guidelines/Event_Planning_Guide.md): Organizing events and meetups.
 - [Social Media Guidelines](guidelines/SocialMedia_Guidelines.md): Managing our social media presence.
 
-### Meeting Minutes
+### Recaps
 
 Keep track of past discussions and decisions:
 
