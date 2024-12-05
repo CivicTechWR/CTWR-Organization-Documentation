@@ -10,6 +10,7 @@ theme:
     - navigation.breadcrumbs
     - search.suggest
     - search.highlight
+    - navigation.instant
   palette:
     primary: white
     accent: indigo
