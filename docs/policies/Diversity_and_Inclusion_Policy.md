@@ -1,3 +1,7 @@
+---
+hide:
+    - navigation
+---
 # Diversity and Inclusion Policy
 
 ## Purpose

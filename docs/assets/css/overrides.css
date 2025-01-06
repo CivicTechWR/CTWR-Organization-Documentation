@@ -18,7 +18,7 @@
 }
 
 /* Footer */
-.footer {
+/* .footer {
     background: var(--color-secondary);
     color: var(--color-light);
     text-align: center;
@@ -31,7 +31,7 @@
 
 .footer a:hover {
     color: var(--color-light);
-}
+}*/
 
 /* Adjust navigation hover effects */
 .navbar a {

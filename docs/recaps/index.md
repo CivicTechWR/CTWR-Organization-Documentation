@@ -1,3 +1,3 @@
-# Recaps
+# Welcome to Recaps
 
-Welcome to the recaps section.
+Below are the pages in this section:

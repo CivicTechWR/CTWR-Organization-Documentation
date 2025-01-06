@@ -15,10 +15,37 @@ Interested in contributing? Check out our [Currently Happening in CTWR](https://
 - Project related repositories
   - [Project Template](https://github.com/CivicTechWR/ProjectTemplate)
 
-## Quickstart Guide
+## Local Development
 
 1. Clone the repository:
+  ```bash:
+  git clone https://github.com/yourusername/CTWR-Organization-Documentation.git
+  cd CTWR-Organization-Documentation
+  ```
 
-   ```bash
-   git clone https://github.com/yourusername/CTWR-Organization-Documentation.git
-   cd CTWR-Organization-Documentation```
+2. create a virtual environment
+  ```bash: 
+  python3 -m venv venv
+  ```
+
+3. activate the virtual environment & install dependencies
+  ```bash:
+  ./venv/bin/pip install -r requirements.txt
+  ./venv/bin/pip install "mkdocs-material[imaging]"
+  ```
+
+4. Run the development server
+  ```bash:
+  ./venv/bin/mkdocs serve
+  ```
+
+5. View the documentation at http://127.0.0.1:8000
+
+## Contributing
+
+Please read our [Contributing Guidelines](docs/guidelines/Contribution_Guidelines.md) for details on how to contribute to this documentation.
+
+## License
+
+This project is licensed under the terms specified in the [LICENSE](LICENSE) file.
+

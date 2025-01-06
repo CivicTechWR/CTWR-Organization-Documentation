@@ -1,3 +1,7 @@
+---
+hide:
+    - navigation
+---
 # Code of Conduct
 
 At Civic Tech Waterloo, we are committed to fostering a respectful and inclusive environment for all participants, regardless. We do not tolerate harassment or discrimination of any kind, including verbal abuse, intimidation, or bias based on gender, race, religion, sexual orientation, or any other personal characteristic.
