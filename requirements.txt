@@ -3,6 +3,6 @@ mkdocs-git-revision-date-localized-plugin
 mkdocs-material
 mkdocs-material-extensions
 mkdocs-minify-plugin
-mkdocs-blog-plugin
+mkdocs-blogging-plugin
 pygments
 pymdown-extensions
