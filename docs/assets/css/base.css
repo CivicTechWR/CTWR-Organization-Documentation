@@ -12,6 +12,15 @@
     --color-border: #e9eaeb; /* Neutral border color */
 }
 
+.md-header {/* override the original white colour and black text */
+    background-color:#000000;
+    color: #ffffff;
+}
+
+.md-header--shadow{
+    box-shadow: none; /* override the original shadow */
+}
+
 body {
     font-family: var(--font-family-base);
     font-size: var(--font-size-base);

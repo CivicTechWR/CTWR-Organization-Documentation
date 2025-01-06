@@ -63,6 +63,9 @@ static/
 .env.test.local
 .env.production.local
 
+# Virtual Environment
+venv/
+
 # Miscellaneous
 *.locksite/
 site/
