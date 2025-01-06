@@ -22,7 +22,7 @@ theme:
   logo: assets/civictechwr_logo_white.png
   favicon: assets/civictechwr_logo_white.png
 plugins:
- # - search
+  - search
   - awesome-pages
   - minify
 #  - social
