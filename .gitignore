@@ -63,12 +63,8 @@ static/
 .env.test.local
 .env.production.local
 
-# Python virtual environments
+# Virtual Environment
 venv/
-env/
-.env/
-.venv/
-ENV/
 
 # Miscellaneous
 *.locksite/
