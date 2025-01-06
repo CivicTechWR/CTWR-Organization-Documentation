@@ -27,7 +27,6 @@ plugins:
   - minify
 #  - social
   - blog: 
-      blog_toc: true
       post_date_format: full
       archive: true
       archive_name: Older Posts
@@ -35,9 +34,6 @@ plugins:
       post_excerpt: optional
       #pagination_per_page: 1
       #pagination_format: "$link_first $link_previous $link_next $link_last"
-
-
-
 
 
 markdown_extensions:
