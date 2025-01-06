@@ -10,7 +10,7 @@ CivicTechWR is a community group focused on solving local issues through design 
 
 ## How can I get involved?
 
-You can get involved by attending our meetups, joining our Slack, and contributing to our projects on GitHub. Check the [Get Involved](../index.md#get-involved) section for more details.
+You can get involved by attending our meetups, joining our Slack, and contributing to our projects on GitHub. Check the [Get Involved](index.md#get-involved) section for more details.
 
 ## When and where are the meetups?
 
