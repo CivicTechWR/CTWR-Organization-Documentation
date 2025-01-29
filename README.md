@@ -9,7 +9,7 @@ Interested in contributing? Check out our [Currently Happening in CTWR](https://
 ## Links
 
 - Repositories for CTWR Initiatives
-  - [Waterloo Region Votes](https://github.com/CivicTechWR/WRVotesFed2025)
+  - [Waterloo Region Votes](https://github.com/CivicTechWR/CTWR-Organization-Documentation/wiki/Waterloo-Region-Votes)
   - [Connected KW](https://github.com/CivicTechWR/connectedkw)
   - [CTWR Website](https://github.com/CivicTechWR/ctwr-web)
 - Project related repositories
