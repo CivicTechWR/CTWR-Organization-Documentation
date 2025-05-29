@@ -34,7 +34,7 @@
 }
 .footer-brand-mission {
   color: #222;
-  font-size: 14px;
+  font-size: 014px;
   margin-bottom: 0;
   max-width: 220px;
 }
@@ -67,7 +67,7 @@
 }
 .footer-donate-btn {
   display: inline-block;
-  background: #3dc9b3;
+  background: #d6685f;
   color: #fff;
   font-weight: bold;
   padding: 8px 26px;
@@ -84,7 +84,7 @@
   font-weight: bold;
   padding: 8px 26px;
   border-radius: 4px;
-  text-decoration: none;
+  text-decoration: none!important;
   font-size: 16px;
   letter-spacing: 1px;
   transition: background 0.2s;
@@ -92,6 +92,15 @@
 .footer-donate-btn:hover {
   background: #35b09c;
 }
+
+.footer-donate-btn a:hover {
+  background: #fff;
+}
+
+.footer-donate-btn:visited {
+  color: #fff;
+}
+
 .footer-login-btn:hover {
   background: gray;
 }
@@ -109,15 +118,6 @@
 }
 .footer-social-icons img:hover {
   filter: grayscale(0) brightness(1.1);
-}
-.footer-connect-links {
-  margin-top: 4px;
-}
-.footer-policy-link {
-  color: #222;
-  font-size: 16px;
-  text-decoration: underline;
-  margin-bottom: 2px;
 }
 @media (max-width: 900px) {
   .footer-redesign-container {
