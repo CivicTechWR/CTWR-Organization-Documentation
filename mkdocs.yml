@@ -44,7 +44,8 @@ markdown_extensions:
   - pymdownx.superfences
   
 
-#extra:
+extra:
+  base_url: "https://civictechwr.github.io"
 #  homepage: https://civictechwr.org
 #  copyright: Copyright &copy; CivicTechWR
 #  social:
@@ -68,5 +69,5 @@ extra_css:
   - assets/css/footer/footer.css # CSS for the footer
   - assets/css/header.css # CSS for the footer
 
-  - assets/css/footer/bootstrap-icons.css # CSS for the 
-  
+  - assets/css/footer/bootstrap-icons.css # CSS for the
+
