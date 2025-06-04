@@ -25,16 +25,21 @@ plugins:
   - search
   - awesome-pages
   - minify
-#  - social
-  - blog: 
+  #  - social
+  - blog:
       post_date_format: full
       archive: true
       archive_name: Older Posts
       archive_date_format: MMMM yyyy
       post_excerpt: optional
-      #pagination_per_page: 1
-      #pagination_format: "$link_first $link_previous $link_next $link_last"
+      # pagination_per_page: 1
+      # pagination_format: "$link_first $link_previous $link_next $link_last"
 
+
+nav:
+  - index.md
+  - Blog:
+    - blog/index.md
 
 markdown_extensions:
   - toc:
@@ -44,7 +49,9 @@ markdown_extensions:
   - pymdownx.superfences
   
 
-#extra:
+extra:
+  base_url: "https://civictechwr.github.io" # TODO: make this a environment variable
+  # base_url: "http://127.0.0.1:8000"
 #  homepage: https://civictechwr.org
 #  copyright: Copyright &copy; CivicTechWR
 #  social:
@@ -67,6 +74,4 @@ extra_css:
   - assets/css/overrides.css # Theme overrides
   - assets/css/footer/footer.css # CSS for the footer
   - assets/css/header.css # CSS for the footer
-
-  - assets/css/footer/bootstrap-icons.css # CSS for the 
-  
+  - assets/css/footer/bootstrap-icons.css # CSS for the

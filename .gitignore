@@ -69,3 +69,5 @@ venv/
 # Miscellaneous
 *.locksite/
 site/
+Makefile
+setup.sh
