@@ -50,7 +50,7 @@ markdown_extensions:
   
 
 extra:
-  base_url: "https://civictechwr.github.io/CTWR-Organization-Documentation/" # TODO: make this a environment variable
+  base_url: "https://civictechwr.github.io" # TODO: make this a environment variable
   # base_url: "http://127.0.0.1:8000"
 #  homepage: https://civictechwr.org
 #  copyright: Copyright &copy; CivicTechWR
