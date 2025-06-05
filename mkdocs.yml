@@ -37,7 +37,7 @@ plugins:
 
 
 nav:
-  - index.md
+  # - index.md # I dont think we want the index right now as it seems to be the error page
   - Blog:
     - blog/index.md
 
