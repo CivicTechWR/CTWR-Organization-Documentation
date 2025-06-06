@@ -12,7 +12,7 @@ But don't panic! We’ve left a digital trail of breadcrumbs for you. 🍞
 
 ## 🔙 Here’s how to get back on track:
 
-[👉 Take me home, country roads ⤴️]([https://civictechwr.org)]
+[👉 Take me home, country roads ⤴️](https://civictechwr.org)
 
 Or you can:
 - 🔍 Double-check the URL (even autocorrect gets it wrong sometimes)
