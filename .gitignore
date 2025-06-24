@@ -71,3 +71,5 @@ venv/
 site/
 Makefile
 setup.sh
+/docs/blog/.obsidian
+/docs/blog/.obsidian
