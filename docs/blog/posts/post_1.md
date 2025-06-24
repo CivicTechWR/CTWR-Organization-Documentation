@@ -1,7 +1,8 @@
 ---
+title: Hello, world! 👋👋
 draft: false
 date: 2025-06-04
-Author: Mohamed Fouda
+Author: "Mohamed Fouda"
 ---
 # Hello, World! 👋👋
 
@@ -16,3 +17,4 @@ We will be sharing updates, thoughts, projects, tips, and whatever else seems wo
 If you’ve made it this far, feel free to say hi or give feedback — And as always, we hope to see you on Wednesday.
 
 Stay tuned for more!
+

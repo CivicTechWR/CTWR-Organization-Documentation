@@ -1,6 +1,6 @@
 ---
 hide:
-    - navigation
-    - toc
+  - navigation
+  - toc
 ---
 Check out our latest posts below
