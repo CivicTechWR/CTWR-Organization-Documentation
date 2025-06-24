@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "post_1"
             }
+          },
+          {
+            "id": "6c039babcd9998db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/post_1.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for post_1"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/post_1.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from post_1"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/post_1.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of post_1"
+              "title": "Outline of index"
             }
           }
         ]
@@ -168,10 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee7474754734da8b",
+  "active": "6c039babcd9998db",
   "lastOpenFiles": [
-    "posts/post_2.md",
     "posts/post_1.md",
+    "posts/Untitled.md",
+    "posts/post_3.md",
+    "posts/post_2.md",
     "index.md"
   ]
 }
