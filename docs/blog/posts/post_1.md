@@ -1,9 +1,9 @@
 ---
-draft: false 
-date: 2025-06-04 
+draft: false
+date: 2025-06-04
 Author: Mohamed Fouda
 ---
-# Hello, World! 👋
+# Hello, World! 👋👋
 
 Welcome to our first blog!
 
