@@ -2,7 +2,7 @@
 title: Hello, world! 👋👋
 draft: false
 date: 2025-06-04
-author: "Mohamed Fouda"
+author: Mohamed Fouda
 ---
 # Hello, World! 👋👋
 
