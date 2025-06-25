@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello, world (again).md",
+                "file": "In the news - The Record - Aug 19, 2018.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Hello, world (again)"
+              "title": "In the news - The Record - Aug 19, 2018"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello, world (again).md",
+                "file": "In the news - The Record - Aug 19, 2018.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hello, world (again)"
+              "title": "Backlinks for In the news - The Record - Aug 19, 2018"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello, world (again).md",
+                "file": "In the news - The Record - Aug 19, 2018.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hello, world (again)"
+              "title": "Outgoing links from In the news - The Record - Aug 19, 2018"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello, world (again).md",
+                "file": "In the news - The Record - Aug 19, 2018.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hello, world (again)"
+              "title": "Outline of In the news - The Record - Aug 19, 2018"
             }
           }
         ]
@@ -170,14 +170,19 @@
   },
   "active": "d22a8a9cf1c91606",
   "lastOpenFiles": [
+    "Season 4 Recap.md",
+    "In the news - Waterloo Chronicle - Oct 03, 2018.md",
+    "Screenshot 2025-06-24 at 7.17.01 PM 1.png",
+    "In the news - CBC - Oct 20, 2018.md",
+    "Screenshot 2025-06-24 at 7.08.45 PM 1.png",
+    "In the news - The Record - Aug 19, 2018.md",
+    "Screenshot 2025-06-24 at 7.15.08 PM copy 2.png",
+    "Screenshot 2025-06-24 at 7.15.08 PM copy 1.png",
+    "Screenshot 2025-06-24 at 7.15.08 PM copy.png",
+    "Hello, world (again).md",
     "One Year of CivicTech WR.md",
     "Iterating on IDEO's DVF Framework (for CivicTech).md",
     "Update - Introducing Season Format.md",
-    "Season 4 Projects.md",
-    "Hello, world (again).md",
-    "In the news - The Record - Aug 19, 2018.md",
-    "In the news - CBC - Oct 20, 2018.md",
-    "In the news - Waterloo Chronicle - Oct 03, 2018.md",
     "Screenshot 2025-06-24 at 7.17.01 PM.png",
     "Screenshot 2025-06-24 at 7.08.45 PM.png",
     "Screenshot 2025-06-24 at 7.15.08 PM.png",

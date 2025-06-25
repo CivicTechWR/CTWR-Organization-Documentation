@@ -7,4 +7,4 @@ links:
 ---
 CivicTech WR Project in the news! 
 
-![](Screenshot 2025-06-24 at 7.08.45 PM.png)
+![](Screenshot 2025-06-24 at 7.08.45 PM 1.png)
