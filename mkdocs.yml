@@ -1,16 +1,20 @@
-site_name: CivicTech Waterloo Region
+site_name: CivicTechWR Documentation
+
+# Copyright
+copyright: Copyright &copy; CivicTech Waterloo Region
+
 # Theme configuration
 theme:
   name: material
-  custom_dir: docs/overrides
+  #custom_dir: docs/overrides
   features:
-  #  - navigation.instant
-  #  - navigation.tabs
-  #  - navigation.sections
-  #  - navigation.breadcrumbs
-  #  - navigation.indexes
-  #  - search.suggest
-  #  - search.highlight
+    - navigation.instant
+    - navigation.tabs
+    - navigation.sections
+    - navigation.breadcrumbs
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
 
     
   palette:
@@ -25,20 +29,35 @@ plugins:
   - search
   - awesome-pages
   - minify
-  #  - social
+  #- social
   - blog:
-      post_date_format: full
       archive: true
       archive_name: Older Posts
       archive_date_format: MMMM yyyy
       post_excerpt: optional
+      pagination: false
+      authors: true
       authors_profiles: true
+      authors_file: "{blog}/.authors.yml"
       # pagination_per_page: 1
       # pagination_format: "$link_first $link_previous $link_next $link_last"
 
 
 nav:
   # - index.md # I dont think we want the index right now as it seems to be the error page
+  - Homepage: https://civictechwr.org
+  - Principles & Rules:
+    - policies/index.md
+    - policies/Code_of_Conduct.md
+    - policies/Diversity_and_Inclusion_Policy.md
+  - Guidelines & Templates:
+    - Guidelines_&_Templates/index.md
+    - Guidelines_&_Templates/Communication_Guidelines.md
+    - Guidelines_&_Templates/Contribution_Guidelines.md
+    - Guidelines_&_Templates/Event_Planning_Guide.md
+    - Guidelines_&_Templates/SocialMedia_Guidelines.md
+  - FAQ:
+    - FAQ.md
   - Blog:
     - blog/index.md
 
@@ -51,23 +70,27 @@ markdown_extensions:
   
 
 extra:
-  base_url: "https://civictechwr.github.io" # TODO: make this a environment variable
+  base_url: "https://civictechwr.org" # TODO: make this a environment variable
   # base_url: "http://127.0.0.1:8000"
 #  homepage: https://civictechwr.org
-#  copyright: Copyright &copy; CivicTechWR
-#  social:
-#    - icon: fontawesome/brands/github
-#      link: https://github.com/CivicTechWR
-#    - icon: fontawesome/brands/slack
-#      link: https://join.slack.com/t/civictechwr/shared_invite/zt-2hk4c93hv-DEIbxR_z1xKj8cZmayVHTw
-#    - icon: fontawesome/brands/instagram
-#      link: https://instagram.com/civictechwr
-#    - icon: fontawesome/brands/x-twitter
-#      link: https://twitter.com/civictechwr
-#    - icon: fontawesome/brands/facebook
-#      link: https://facebook.com/civictechwr
-#    - icon: fontawesome/solid/envelope
-#      link: mailto:civictechwr@gmail.com
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/civictechwr
+    - icon: fontawesome/brands/github
+      link: https://github.com/CivicTechWR
+    - icon: fontawesome/brands/slack
+      link: https://join.slack.com/t/civictechwr/shared_invite/zt-2hk4c93hv-DEIbxR_z1xKj8cZmayVHTw
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/civictechwr
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/civictechwr
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/civictechwr
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/civictechwr
+    - icon: fontawesome/solid/envelope
+      link: mailto:civictechwr@gmail.com
+  generator: false
 
 extra_css:
   - assets/css/base.css # Base styles

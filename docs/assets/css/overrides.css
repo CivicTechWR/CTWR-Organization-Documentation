@@ -18,6 +18,18 @@
 }
 
 /* Footer */
+
+.md-footer-meta {
+    background: #fafafa;
+}
+
+html .md-footer-meta.md-typeset a {
+    color: var(--color-primary);
+}
+
+.md-copyright__highlight {
+    color: #cfcfcf;
+}
 /* .footer {
     background: var(--color-secondary);
     color: var(--color-light);

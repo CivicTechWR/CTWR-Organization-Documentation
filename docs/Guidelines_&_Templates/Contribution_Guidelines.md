@@ -1,9 +1,7 @@
 ---
+title: Contribution Guidelines
 hide:
-    - navigation
 ---
-# Contribution Guidelines
-
 ## How to Contribute
 
 - Fork the repository.

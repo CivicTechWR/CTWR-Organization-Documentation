@@ -1,9 +1,7 @@
 ---
+title: Communication Guidelines
 hide:
-    - navigation
 ---
-# Communication Guidelines
-
 ## Purpose
 
 To ensure clear, respectful, and effective communication within the CivicTechWR community.

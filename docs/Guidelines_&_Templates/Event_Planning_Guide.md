@@ -1,12 +1,9 @@
 ---
+title: Event Planning Guide
 hide:
-    - navigation
 ---
-# Event Planning Guide
-
-This guide provides a structured approach to planning events within the CivicTechWR community, ensuring all necessary steps are covered for a successful event.
-
 ## Steps for Planning an Event
+This guide provides a structured approach to planning events within the CivicTechWR community, ensuring all necessary steps are covered for a successful event.
 
 ### 1. Define the Event
 

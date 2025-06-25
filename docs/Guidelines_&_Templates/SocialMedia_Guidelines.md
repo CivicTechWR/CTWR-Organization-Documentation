@@ -1,6 +1,5 @@
 ---
-hide:
-    - navigation
+hide: 
 ---
 # Social Media Guidelines
 

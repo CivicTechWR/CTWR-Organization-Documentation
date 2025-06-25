@@ -1,9 +1,9 @@
 ---
+title: Guidelines & Templates
 hide:
     - navigation
 ---
-# Guidelines & Templates
-### Guidelines
+## Guidelines
 
 Please be aware of the following guidelines:
 
@@ -12,9 +12,11 @@ Please be aware of the following guidelines:
 - [Event Planning Guide](../Guidelines_&_Templates/Event_Planning_Guide.md): Organizing events and meetups.
 - [Social Media Guidelines](../Guidelines_&_Templates/SocialMedia_Guidelines.md): Managing our social media presence.
 
-### Templates
+## Templates
 
 Useful templates for effective collaboration:
 
 - [Event Planning Template](../Guidelines_&_Templates/Event_Planning_Template.md)
 - [Recaps Template](../Guidelines_&_Templates/Recaps_Template.md)
+- [Interview Questions](../Guidelines_&_Templates/InterviewQuestions.md): Questions for community outreach.
+- [Outreach Letter Template](../Guidelines_&_Templates/OutreachLetter.md): Template for outreach letters.

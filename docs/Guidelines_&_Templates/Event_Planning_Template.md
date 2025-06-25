@@ -1,9 +1,7 @@
 ---
+title: Event Planning Template
 hide:
-    - navigation
 ---
-# Event Planning Template
-
 ## Event Name
 
 ## Date and Time
