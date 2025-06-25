@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello, world.md",
+                "file": "Hello, world (again).md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Hello, world"
+              "title": "Hello, world (again)"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello, world.md",
+                "file": "Hello, world (again).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hello, world"
+              "title": "Backlinks for Hello, world (again)"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello, world.md",
+                "file": "Hello, world (again).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Hello, world"
+              "title": "Outgoing links from Hello, world (again)"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello, world.md",
+                "file": "Hello, world (again).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hello, world"
+              "title": "Outline of Hello, world (again)"
             }
           }
         ]
@@ -170,7 +170,11 @@
   },
   "active": "d22a8a9cf1c91606",
   "lastOpenFiles": [
+    "One Year of CivicTech WR.md",
+    "Iterating on IDEO's DVF Framework (for CivicTech).md",
+    "Update - Introducing Season Format.md",
     "Season 4 Projects.md",
+    "Hello, world (again).md",
     "In the news - The Record - Aug 19, 2018.md",
     "In the news - CBC - Oct 20, 2018.md",
     "In the news - Waterloo Chronicle - Oct 03, 2018.md",
@@ -179,7 +183,6 @@
     "Screenshot 2025-06-24 at 7.15.08 PM.png",
     "Urban Design & Happiness.md",
     "Ontario Digital Service Lab Launch.md",
-    "CivicTechWR meets House of Friendship.md",
-    "Hello, world.md"
+    "CivicTechWR meets House of Friendship.md"
   ]
 }

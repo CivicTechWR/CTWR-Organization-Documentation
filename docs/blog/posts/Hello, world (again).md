@@ -1,7 +1,7 @@
 ---
 title: Hello, world! (Again) 👋👋
 draft: false
-date: 2025-06-04
+date: 2024-12-15
 authors:
   - foudamo
 links:
