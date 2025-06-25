@@ -1,5 +1,22 @@
 /* Base.css: Reset and global styles */
 
+
+
+/* Logo header */
+.md-header__button.md-logo{
+    background-color: var(--color-primary);
+    color: var(--color-light);
+    padding: 5px 5px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.md-header__button.md-logo:hover{
+    background-color: var(--color-secondary);
+    transform: scale(1.05); 
+}
+
 /* Typography */
 :root {
     --font-family-base: 'DM Sans', sans-serif;
@@ -13,8 +30,8 @@
 }
 
 .md-header {/* override the original white colour and black text */
-    background-color:#000000;
-    color: #ffffff;
+    background-color:#fafafa;
+    color: var(--color-primary);
 }
 
 .md-header--shadow{
@@ -97,4 +114,15 @@ a:hover {
 .hero a:hover {
     background-color: var(--color-light);
     color: var(--color-primary);
+}
+
+
+/* Blog Section */
+.md-content__inner{
+        max-width: 100%;
+    }
+@media screen and (min-width:76.25em){
+    .md-content__inner{
+        max-width: 70%;
+    }
 }
