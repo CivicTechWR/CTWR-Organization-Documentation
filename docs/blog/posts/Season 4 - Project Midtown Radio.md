@@ -28,13 +28,13 @@ That mismatch, between what’s being created and what’s being heard, became t
 ### People Involved 
 The group behind the project was made up of volunteers, students from Conestoga, Waterloo, and Guelph, along with working professionals from across the region. Some brought technical expertise. Others contributed production experience, design input, or feedback on usability.
 
-Cole Westerveld [Github account](https://github.com/coleWesterveld) [Linkedin Account](https://www.linkedin.com/in/cole-westerveld/)
-Julian Morley [Github account](https://github.com/julianm-lrj) [Linkedin Account]()
-Justin Chenvanich [Github account](https://github.com/jChenvan) [Linkedin Account](https://www.linkedin.com/in/justin-chenvanich-1675621b3)
-Andrew Sullivan Cant [Github account](https://github.com/acant) [Linkedin Account](https://linkedin.com/in/andrewsullivancant)
-Gabriela Niño Ramirez [Github account](https://github.com/gabynr) [Linkedin Account]()
-Aditya Mahajan [Github account](https://github.com/aditya-mahajan96) [Linkedin Account](https://www.linkedin.com/in/adityamahajan263/)
-David Harmes [Github account]() [Linkedin Account](https://www.linkedin.com/in/david-harmes-1aa42634/)
+- Cole Westerveld [Github account](https://github.com/coleWesterveld) [Linkedin Account](https://www.linkedin.com/in/cole-westerveld/)
+- Julian Morley [Github account](https://github.com/julianm-lrj) [Linkedin Account]()
+- Justin Chenvanich [Github account](https://github.com/jChenvan) [Linkedin Account](https://www.linkedin.com/in/justin-chenvanich-1675621b3)
+- Andrew Sullivan Cant [Github account](https://github.com/acant) [Linkedin Account](https://linkedin.com/in/andrewsullivancant)
+- Gabriela Niño Ramirez [Github account](https://github.com/gabynr) [Linkedin Account]()
+- Aditya Mahajan [Github account](https://github.com/aditya-mahajan96) [Linkedin Account](https://www.linkedin.com/in/adityamahajan263/)
+- David Harmes [Github account]() [Linkedin Account](https://www.linkedin.com/in/david-harmes-1aa42634/)
 
 ### Technology Used
 The timeline was tight: twelve weeks, end to end. They broke the work into stages: interface design, content architecture, platform requirements, deployment. Each task was designed to move the group forward toward a public-ready launch.

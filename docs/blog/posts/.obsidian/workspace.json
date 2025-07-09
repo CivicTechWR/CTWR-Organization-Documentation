@@ -15,7 +15,7 @@
               "state": {
                 "file": "Season 4 - Project Midtown Radio.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Season 4 - Project Midtown Radio"
@@ -170,12 +170,13 @@
   },
   "active": "ba16e6d5803b14db",
   "lastOpenFiles": [
-    "Season 4 - Project Connected KW.md",
+    "midtown-radio.png",
+    "In the news - Waterloo Chronicle - Oct 03, 2018.md",
     "Season 4 - Project Midtown Radio.md",
+    "End of Season DRAFT.md",
+    "Season 4 - Project Connected KW.md",
     "Season 4 Recap.md",
     "Screenshot 2025-06-24 at 7.08.45 PM.png",
-    "End of Season DRAFT.md",
-    "midtown-radio.png",
     "Urban Design & Happiness.md",
     "Iterating on IDEO's DVF Framework (for CivicTech).md",
     "One Year of CivicTech WR.md",
@@ -183,7 +184,6 @@
     "Hello, world (again).md",
     "Ontario Digital Service Lab Launch.md",
     "CivicTechWR meets House of Friendship.md",
-    "In the news - Waterloo Chronicle - Oct 03, 2018.md",
     "In the news - CBC - Oct 20, 2018.md",
     "In the news - The Record - Aug 19, 2018.md",
     "Screenshot 2025-06-24 at 7.17.01 PM 1.png",
