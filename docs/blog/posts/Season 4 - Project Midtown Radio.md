@@ -3,8 +3,8 @@ title: Season 4 - Project Midtown Radio
 draft: false
 date: 2025-06-24
 authors:
-  - apurvakb
   - foudamo
+  - apurvakb
 links:
 ---
 MidTown Radio mobile App was created which provides access to their live stream, podcasts, and artist directory in the Waterloo Region. This app gives [MidTown Radio](https://www.midtownradio.ca/) another way to reach audience and showcase art in the community. The [CBC Listen App](https://www.cbc.ca/listen/live-radio) is an example of what they inspired for.  
@@ -21,7 +21,7 @@ Twelve weeks later, the app is live on [Apple App Store](https://apps.apple.com/
 ### What was the Problem?
 The initial conversation wasn’t about building an app. It was about what was missing. Artists were producing music, but not finding local audiences. Listeners were eager to engage with community music, but had no centralized way to find it.
 
-“There just wasn’t a good place to go to hear locally produced music,” said David Harmes, who led the project. “Commercial radio rarely plays it, and most people don’t know where else to look.”
+>“There just wasn’t a good place to go to hear locally produced music,” said David Harmes, who led the project. “Commercial radio rarely plays it, and most people don’t know where else to look.”
 
 That mismatch, between what’s being created and what’s being heard, became the basis for a simple goal: build a platform that could bridge that gap, starting with version 1.0.
 
@@ -56,7 +56,7 @@ You can checkout the project repo at https://github.com/CivicTechWR/MidtownRadio
 ### Impact - Community (Quality)
 The technical solution wasn’t the full story. What made the build possible was a steady rhythm of collaboration. Weekly planning helped coordinate contributions. The scope stayed realistic. Everyone working on the app, from developers to radio producers, had a role in shaping how it came together.
 
-“I’m proud of the mix of people who were part of this,” Harmes noted. “It wasn’t just about building an app. It was about working together toward something useful, and doing it in a short, focused window.”
+>“I’m proud of the mix of people who were part of this,” Harmes noted. “It wasn’t just about building an app. It was about working together toward something useful, and doing it in a short, focused window.”
 
 All of the collaborators initially connected through CivicTechWR. While some contributors brought deep technical backgrounds, others were newer to software projects. Several described the experience as a learning opportunity, a way to see the full process of app development, from first meeting to public launch.
 

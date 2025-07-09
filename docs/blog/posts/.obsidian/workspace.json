@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d22a8a9cf1c91606",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "In the news - The Record - Aug 19, 2018.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "In the news - The Record - Aug 19, 2018"
-            }
-          },
-          {
             "id": "ba16e6d5803b14db",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "Season 4 - Project Midtown Radio"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,9 +170,9 @@
   },
   "active": "ba16e6d5803b14db",
   "lastOpenFiles": [
-    "Season 4 Recap.md",
-    "Season 4 - Project Midtown Radio.md",
     "Season 4 - Project Connected KW.md",
+    "Season 4 - Project Midtown Radio.md",
+    "Season 4 Recap.md",
     "Screenshot 2025-06-24 at 7.08.45 PM.png",
     "End of Season DRAFT.md",
     "midtown-radio.png",
