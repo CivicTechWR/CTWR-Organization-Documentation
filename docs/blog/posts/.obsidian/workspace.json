@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "In the news - The Record - Aug 19, 2018"
             }
+          },
+          {
+            "id": "ba16e6d5803b14db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Season 4 - Project Midtown Radio.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Season 4 - Project Midtown Radio"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,26 +183,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d22a8a9cf1c91606",
+  "active": "ba16e6d5803b14db",
   "lastOpenFiles": [
     "Season 4 Recap.md",
+    "Season 4 - Project Midtown Radio.md",
+    "Season 4 - Project Connected KW.md",
+    "Screenshot 2025-06-24 at 7.08.45 PM.png",
+    "End of Season DRAFT.md",
+    "midtown-radio.png",
+    "Urban Design & Happiness.md",
+    "Iterating on IDEO's DVF Framework (for CivicTech).md",
+    "One Year of CivicTech WR.md",
+    "Update - Introducing Season Format.md",
+    "Hello, world (again).md",
+    "Ontario Digital Service Lab Launch.md",
+    "CivicTechWR meets House of Friendship.md",
     "In the news - Waterloo Chronicle - Oct 03, 2018.md",
-    "Screenshot 2025-06-24 at 7.17.01 PM 1.png",
     "In the news - CBC - Oct 20, 2018.md",
-    "Screenshot 2025-06-24 at 7.08.45 PM 1.png",
     "In the news - The Record - Aug 19, 2018.md",
+    "Screenshot 2025-06-24 at 7.17.01 PM 1.png",
+    "Screenshot 2025-06-24 at 7.08.45 PM 1.png",
     "Screenshot 2025-06-24 at 7.15.08 PM copy 2.png",
     "Screenshot 2025-06-24 at 7.15.08 PM copy 1.png",
     "Screenshot 2025-06-24 at 7.15.08 PM copy.png",
-    "Hello, world (again).md",
-    "One Year of CivicTech WR.md",
-    "Iterating on IDEO's DVF Framework (for CivicTech).md",
-    "Update - Introducing Season Format.md",
     "Screenshot 2025-06-24 at 7.17.01 PM.png",
-    "Screenshot 2025-06-24 at 7.08.45 PM.png",
-    "Screenshot 2025-06-24 at 7.15.08 PM.png",
-    "Urban Design & Happiness.md",
-    "Ontario Digital Service Lab Launch.md",
-    "CivicTechWR meets House of Friendship.md"
+    "Screenshot 2025-06-24 at 7.15.08 PM.png"
   ]
 }
