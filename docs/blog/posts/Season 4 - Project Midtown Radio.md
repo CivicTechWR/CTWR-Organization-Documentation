@@ -16,7 +16,7 @@ There’s no shortage of music streaming platforms. But finding music created by
 
 Twelve weeks later, the app is live on [Apple App Store](https://apps.apple.com/ca/app/midtown-radio/id6746517964) and [Google Play Store](https://play.google.com/store/apps/details?id=com.civitechwr.midtownradio.app.ctwr_midtown_radio_app&pcampaignid=web_share)
 
-![[midtown-radio.png]]
+![](midtown-radio.png)
 
 ## What was the Problem?
 The initial conversation wasn’t about building an app. It was about what was missing. Artists were producing music, but not finding local audiences. Listeners were eager to engage with community music, but had no centralized way to find it.
@@ -28,7 +28,8 @@ That mismatch, between what’s being created and what’s being heard, became t
 ## People Involved 
 The group behind the project was made up of volunteers, students from Conestoga, Waterloo, and Guelph, along with working professionals from across the region. Some brought technical expertise. Others contributed production experience, design input, or feedback on usability.
 
-![[IMG_2207.jpeg]]
+![](IMG_2207.jpeg)
+
 - Cole Westerveld [Github account](https://github.com/coleWesterveld) & [Linkedin Account](https://www.linkedin.com/in/cole-westerveld/)
 - Julian Morley [Github account](https://github.com/julianm-lrj) & [Linkedin Account]()
 - Justin Chenvanich [Github account](https://github.com/jChenvan) & [Linkedin Account](https://www.linkedin.com/in/justin-chenvanich-1675621b3)
