@@ -29,7 +29,7 @@ The group behind the project was made up of volunteers, students from Conestoga,
 ![](IMG_2207.jpeg)
 
 - Cole Westerveld [Github account](https://github.com/coleWesterveld) & [Linkedin Account](https://www.linkedin.com/in/cole-westerveld/)
-- Julian Morley [Github account](https://github.com/julianm-lrj) & [Linkedin Account]()
+- Julian Morley [Github account](https://github.com/julianm-lrj) & [Linkedin Account](https://www.linkedin.com/in/julian-morley)
 - Justin Chenvanich [Github account](https://github.com/jChenvan) & [Linkedin Account](https://www.linkedin.com/in/justin-chenvanich-1675621b3)
 - Andrew Sullivan Cant [Github account](https://github.com/acant) & [Linkedin Account](https://linkedin.com/in/andrewsullivancant)
 - Gabriela Niño Ramirez [Github account](https://github.com/gabynr) & [Linkedin Account]()

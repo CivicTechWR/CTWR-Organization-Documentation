@@ -9,7 +9,7 @@ links:
 ---
 Connected KW is a volunteer-run project with the goal of creating an inclusive and comprehensive resource for families in Waterloo Region. You can get involved by [creating an account](https://cms.connectedkw.com/admin/register) and helping us to add events and info for other families!
 
-![](Screenshot 2025-07-02 at 8.13.47 PM.png)
+![](Screenshot 2025-07-10 at 1.02.31 PM.png)
 
 <!-- more -->
 ## What was the Problem?
