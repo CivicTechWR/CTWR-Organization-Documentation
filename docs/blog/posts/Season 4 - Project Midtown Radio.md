@@ -7,18 +7,17 @@ authors:
   - apurvakb
 links:
 ---
+# Project Midtown Radio 
 MidTown Radio mobile App was created which provides access to their live stream, podcasts, and artist directory in the Waterloo Region. This app gives [MidTown Radio](https://www.midtownradio.ca/) another way to reach audience and showcase art in the community. The [CBC Listen App](https://www.cbc.ca/listen/live-radio) is an example of what they inspired for.  
 
-<!-- more -->
+![](midtown-radio.png)
 
-# Project Midtown Radio 
+<!-- more -->
+## What was the Problem?
 There’s no shortage of music streaming platforms. But finding music created by people in your own region, artists playing live sets just down the road, isn’t something those platforms do well. That gap sparked a small, time-bound project this spring: to design and launch a mobile app that helps listeners discover and access music made by local artists. 
 
 Twelve weeks later, the app is live on [Apple App Store](https://apps.apple.com/ca/app/midtown-radio/id6746517964) and [Google Play Store](https://play.google.com/store/apps/details?id=com.civitechwr.midtownradio.app.ctwr_midtown_radio_app&pcampaignid=web_share)
 
-![](midtown-radio.png)
-
-## What was the Problem?
 The initial conversation wasn’t about building an app. It was about what was missing. Artists were producing music, but not finding local audiences. Listeners were eager to engage with community music, but had no centralized way to find it.
 
 >“There just wasn’t a good place to go to hear locally produced music,” said David Harmes, who led the project. “Commercial radio rarely plays it, and most people don’t know where else to look.”

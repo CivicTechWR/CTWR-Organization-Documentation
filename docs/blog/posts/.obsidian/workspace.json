@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Season 4 - Project Midtown Radio.md",
+                "file": "Season 4 - Project Connected KW.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Season 4 - Project Midtown Radio"
+              "title": "Season 4 - Project Connected KW"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "ba16e6d5803b14db",
   "lastOpenFiles": [
-    "Season 4 - Project Connected KW.md",
+    "Screenshot 2025-07-02 at 8.13.47 PM.png",
     "Season 4 - Project Midtown Radio.md",
+    "Season 4 - Project Connected KW.md",
     "midtown-radio.png",
     "IMG_2207.jpeg",
     "IMG_2206.jpeg",

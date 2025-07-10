@@ -7,10 +7,23 @@ authors:
   - foudamo
 links:
 ---
+# Project Connected KW
 Connected KW is a volunteer-run project with the goal of creating an inclusive and comprehensive resource for families in Waterloo Region. You can get involved by [creating an account](https://cms.connectedkw.com/admin/register) and helping us to add events and info for other families!
-<!-- more -->
 
-# Project Connected KW  
+![](Screenshot 2025-07-02 at 8.13.47 PM.png)
+
+<!-- more -->
+## What was the Problem?
+At the core, it’s about helping people connect with their community in meaningful ways. I think a lot of us—myself included, and others at Civic Tech—want to get involved locally, but it’s not always clear how to start. Some people look to events as a way to engage, while others are interested in volunteering. But in both cases, the path to connection can feel scattered or hard to navigate.
+
+With the Volunteer Directory, we wanted to complement existing platforms like VolunteerWR, which do a great job posting volunteer opportunities. Our directory flips that model—it highlights the volunteers themselves. People can create profiles outlining their skills, interests, causes they care about, and what they'd like to learn. Then, nonprofits can either request a specific volunteer or talk to us about their needs, and we’ll help match them with someone whose skills align.
+
+We also recognized that many community organizations are stretched thin. They may have needs or ideas but not the time or resources to define a formal volunteer role. Our directory supports a more collaborative approach—pairing skilled volunteers with organizations to co-create solutions or projects together. It’s less about filling a shift and more about engaging volunteers as partners who bring valuable knowledge and creativity to the table.
+
+Shay: 
+> I started ConnectedKW while I was on maternity leave with my youngest daughter. At the time, I was trying to figure out how to stay socially connected and engage with the community—but my availability was mostly weekdays during the day, which made it challenging. I wanted to get out and do things, but I kept finding myself missing events, even though I was following local Instagram accounts and checking different event calendars.
+> It felt like there was no single, reliable source for finding out what was happening—especially for family-friendly events—so I decided to solve my own problem. I started building an aggregated events feed that focused on the kinds of things I wanted to attend. It was fun to create and genuinely helped me discover local events.
+> After working on it solo for a while, I brought the project to Civic Tech Waterloo Region to see if others might be interested in contributing. I found a great group of volunteers who were eager to help. Together, we identified a new opportunity: creating a volunteer directory to connect people who want to support nonprofits with organizations that need help. So in addition to the events page, we’ve added a local volunteer page—and that’s what the Civic Tech team has been focused on this season.
 
 ## People Involved 
 The team of volunteers behind ConnectedKW has been absolutely amazing. They come from diverse backgrounds and varying levels of technical expertise, yet everyone has found meaningful ways to contribute. Some have focused on the technical side—developing features, adding to the website, even learning JavaScript, React, or our backend platform as they went. Others have supported outreach efforts, connected with local organizations, conducted user research, helped with testing, and contributed to the website’s copy and content. 
@@ -32,18 +45,6 @@ It’s been incredible to see how each volunteer brings their unique skills and 
 Civic Tech volunteers have brought a wave of new energy, ideas, and motivation to the project—things I never would have come up with on my own. The idea for the volunteer directory, for example, wasn’t mine originally, but it’s become such a valuable addition. That kind of creative input has really expanded the vision of what ConnectedKW could be.
 
 More than anything, having a team around this project has kept it alive. If I were still doing it on my own, I probably would have given up by now. But seeing other people take an interest, recognize the value, and suggest new directions has made it feel worth continuing. Their involvement has turned it from a personal side project into something collaborative and sustainable.
-
-## What was the Problem?
-At the core, it’s about helping people connect with their community in meaningful ways. I think a lot of us—myself included, and others at Civic Tech—want to get involved locally, but it’s not always clear how to start. Some people look to events as a way to engage, while others are interested in volunteering. But in both cases, the path to connection can feel scattered or hard to navigate.
-
-With the Volunteer Directory, we wanted to complement existing platforms like VolunteerWR, which do a great job posting volunteer opportunities. Our directory flips that model—it highlights the volunteers themselves. People can create profiles outlining their skills, interests, causes they care about, and what they'd like to learn. Then, nonprofits can either request a specific volunteer or talk to us about their needs, and we’ll help match them with someone whose skills align.
-
-We also recognized that many community organizations are stretched thin. They may have needs or ideas but not the time or resources to define a formal volunteer role. Our directory supports a more collaborative approach—pairing skilled volunteers with organizations to co-create solutions or projects together. It’s less about filling a shift and more about engaging volunteers as partners who bring valuable knowledge and creativity to the table.
-
-Shay: 
-> I started ConnectedKW while I was on maternity leave with my youngest daughter. At the time, I was trying to figure out how to stay socially connected and engage with the community—but my availability was mostly weekdays during the day, which made it challenging. I wanted to get out and do things, but I kept finding myself missing events, even though I was following local Instagram accounts and checking different event calendars.
-> It felt like there was no single, reliable source for finding out what was happening—especially for family-friendly events—so I decided to solve my own problem. I started building an aggregated events feed that focused on the kinds of things I wanted to attend. It was fun to create and genuinely helped me discover local events.
-> After working on it solo for a while, I brought the project to Civic Tech Waterloo Region to see if others might be interested in contributing. I found a great group of volunteers who were eager to help. Together, we identified a new opportunity: creating a volunteer directory to connect people who want to support nonprofits with organizations that need help. So in addition to the events page, we’ve added a local volunteer page—and that’s what the Civic Tech team has been focused on this season.
 
 ## Technology Used
 The project has evolved over two seasons at Civic Tech. In the first season, the focus was on creating the initial version of the Volunteer Directory. It was a pretty simple setup—mostly just a page layout with basic search and filter functionality—and it only featured CivicTech volunteers. The team entered all the profiles manually through the backend and used the directory as a kind of internal showcase.
