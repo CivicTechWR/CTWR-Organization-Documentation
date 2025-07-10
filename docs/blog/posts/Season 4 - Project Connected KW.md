@@ -15,6 +15,7 @@ Connected KW is a volunteer-run project with the goal of creating an inclusive 
 ## People Involved 
 The team of volunteers behind ConnectedKW has been absolutely amazing. They come from diverse backgrounds and varying levels of technical expertise, yet everyone has found meaningful ways to contribute. Some have focused on the technical side—developing features, adding to the website, even learning JavaScript, React, or our backend platform as they went. Others have supported outreach efforts, connected with local organizations, conducted user research, helped with testing, and contributed to the website’s copy and content. 
 
+![[IMG_2206.jpeg]]
 It’s been incredible to see how each volunteer brings their unique skills and capacity to the project, making it a true collaborative effort.
 
 - Shay Kennedy [Github account](https://github.com/s-kennedy) & [Linkedin Account](https://www.linkedin.com/in/shaydreamside/)
