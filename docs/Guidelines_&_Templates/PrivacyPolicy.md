@@ -1,7 +1,7 @@
 # Privacy Policy
 
 **Effective Date:** August 4, 2025  
-**Applies to:** All services hosted or maintained by CivicTechWR, including tools available at `civictechwr.org` and its subdomains.
+**Applies to:** All services hosted or maintained by CivicTechWR, including tools available at `civictechwr.org`, `ctwr.org`, and its subdomains.
 
 ---
 
