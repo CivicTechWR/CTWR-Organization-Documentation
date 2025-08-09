@@ -20,3 +20,7 @@ Useful templates for effective collaboration:
 - [Recaps Template](../Guidelines_&_Templates/Recaps_Template.md)
 - [Interview Questions](../Guidelines_&_Templates/InterviewQuestions.md): Questions for community outreach.
 - [Outreach Letter Template](../Guidelines_&_Templates/OutreachLetter.md): Template for outreach letters.
+
+## Policies
+
+- [Privacy Policy](../Guidelines_&_Templates/PrivacyPolicy.md)
