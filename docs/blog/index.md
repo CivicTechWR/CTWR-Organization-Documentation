@@ -1,5 +1,0 @@
----
-hide:
-  - toc
----
-# CivicTechWR Blog

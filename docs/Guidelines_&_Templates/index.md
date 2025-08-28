@@ -3,9 +3,9 @@ title: Guidelines & Templates
 hide:
     - navigation
 ---
-## Guidelines
+## Guidelines 
 
-Please be aware of the following guidelines:
+For all community members, please be aware of the following guidelines:
 
 - [Communication Guidelines](../Guidelines_&_Templates/Communication_Guidelines.md): Best practices for communication.
 - [Contribution Guidelines](../Guidelines_&_Templates/Contribution_Guidelines.md): Steps for getting involved and contributing.
@@ -14,13 +14,13 @@ Please be aware of the following guidelines:
 
 ## Templates
 
-Useful templates for effective collaboration:
+Useful templates for hackers:
 
-- [Event Planning Template](../Guidelines_&_Templates/Event_Planning_Template.md)
-- [Recaps Template](../Guidelines_&_Templates/Recaps_Template.md)
+- [Template for Demo Slides](../Guidelines_&_Templates/Demo_Slides_Templates.md): for hackers presenting on Demo Day
+
+Useful templates for organizers:
+
+- [Event Planning Template](../Guidelines_&_Templates/Event_Planning_Template.md): for organizing hacknights & other events
+- [Recaps Template](../Guidelines_&_Templates/Recaps_Template.md): for recording project progress at the end of hacknights
 - [Interview Questions](../Guidelines_&_Templates/InterviewQuestions.md): Questions for community outreach.
 - [Outreach Letter Template](../Guidelines_&_Templates/OutreachLetter.md): Template for outreach letters.
-
-## Policies
-
-- [Privacy Policy](../Guidelines_&_Templates/PrivacyPolicy.md)
