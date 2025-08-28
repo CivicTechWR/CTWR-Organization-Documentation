@@ -16,7 +16,7 @@ For all community members, please be aware of the following guidelines:
 
 Useful templates for hackers:
 
-- [Template for Demo Slides](../Guidelines_&_Templates/Demo_Slides_Templates.md): for hackers presenting on Demo Day
+- [Template for Demo Slides](../Guidelines_&_Templates/Demo_Slides_Template.md): for hackers presenting on Demo Day
 
 Useful templates for organizers:
 

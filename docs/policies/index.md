@@ -12,4 +12,4 @@ Below are the policies, principles and rules guiding our community.
 - [Diversity and Inclusion Policy](Diversity_and_Inclusion_Policy.md): Promoting diversity and equity.
 
 ## Privacy Policy
-- [Privacy Policy](../Guidelines_&_Templates/PrivacyPolicy.md)
+- [Privacy Policy](../policies/PrivacyPolicy.md)
