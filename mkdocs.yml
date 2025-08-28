@@ -50,17 +50,16 @@ nav:
     - policies/index.md
     - policies/Code_of_Conduct.md
     - policies/Diversity_and_Inclusion_Policy.md
+    - policies/PrivacyPolicy.md
   - Guidelines & Templates:
     - Guidelines_&_Templates/index.md
     - Guidelines_&_Templates/Communication_Guidelines.md
     - Guidelines_&_Templates/Contribution_Guidelines.md
-    - Guidelines_&_Templates/PrivacyPolicy.md
     - Guidelines_&_Templates/Event_Planning_Guide.md
     - Guidelines_&_Templates/SocialMedia_Guidelines.md
+    - Guidelines_&_Templates/Demo_Slides_Template.md
   - FAQ:
     - FAQ.md
-  - Blog:
-    - blog/index.md
 
 markdown_extensions:
   - toc:
