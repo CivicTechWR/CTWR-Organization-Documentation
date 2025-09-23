@@ -72,3 +72,5 @@ site/
 Makefile
 setup.sh
 /docs/blog/.obsidian
+docs/blog/posts/.obsidian/workspace.json
+docs/blog/posts/.obsidian/core-plugins.json
