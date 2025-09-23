@@ -12,30 +12,30 @@ hide:
 
 ## Your 3-minute pitch outline 
 
-- **What is it?**
+1. **What is it?**
 
 	- Focus on problem > solution. Prioritize the problem context (not your solution idea). That helps us apply design thinking and invites diverse solutions.
 
 	- It’s also okay if you want to test an idea or “hack a solution” together or focus on gaining and practicing a skill (*for example, I would like to learn React and temporal workflows this season*) —- just anchor it in the problem and who’s affected.
 
-- **Who is affected by this problem?**
+2. **Who is affected by this problem?**
 
 	Name the people or groups, and where they are (e.g., “seniors in Kitchener who rely on buses after 9pm”).
 
-- **What exists today?**
+3. **What exists today?**
 
-	How are users solving or mitigatating the problem?
+	How are users solving or mitigatating the problem today?
 	Tools, programs, workarounds, policies, or past attempts (and their gaps).
 
-- **Why now?** 
+4. **Why now?** 
 
 	What’s changed or urgent about the problem? Any time-bound opportunity or risk?
 
-- **What help do you need from the community?**
+5. **What help do you need from the community?**
 
 	Data, introductions, volunteers with certain skills, user interviews, etc.
 
-- **What are you bringing (give back)?**
+6. **What are you bringing (give back)?**
 
 	Time, domain knowledge, user access, data, story, test space, feedback cadence, or sponsorship.
 
@@ -58,7 +58,7 @@ We’ll form a small group around your problem to workshop and plan. Use this fl
 
 	Categories the information you discovered about the problem. Put facts and observations on sticky notes (physical or digital) and group into themes. End with a few sub-problems.
 
-## Next Few Weeks
+## Next Steps: Next Few Weeks
 
 **Week Two:** Mini Hackathon 
 
