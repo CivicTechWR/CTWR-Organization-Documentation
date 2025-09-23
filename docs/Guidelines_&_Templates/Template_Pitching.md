@@ -22,18 +22,14 @@ hide:
 
 	Name the people or groups, and where they are (e.g., “seniors in Kitchener who rely on buses after 9pm”).
 
+- **What exists today?**
+
+	How are users solving or mitigatating the problem?
+	Tools, programs, workarounds, policies, or past attempts (and their gaps).
+
 - **Why now?** 
 
 	What’s changed or urgent about the problem? Any time-bound opportunity or risk?
-
-- **What exists today?**
-
-	(to solve or mitigate the problem)
-	Tools, programs, workarounds, policies, or past attempts (and their gaps).
-
-- **What would success look like?**
-
-	Simple outcomes or signals (e.g., fewer missed appointments; faster sign-ups; clearer info).
 
 - **What help do you need from the community?**
 
@@ -48,7 +44,7 @@ hide:
 - Expect clarifying questions about scope, users, constraints, and success criteria.
 - If you don’t know, say so—that’s great input for discovery.
 
-## After the pitch: breakout session (same day) & next steps (next few weeks)
+## After the pitch: breakout session (same day)
 
 We’ll form a small group around your problem to workshop and plan. Use this flow:
 
@@ -62,11 +58,18 @@ We’ll form a small group around your problem to workshop and plan. Use this fl
 
 	Categories the information you discovered about the problem. Put facts and observations on sticky notes (physical or digital) and group into themes. End with a few sub-problems.
 
+## Next Few Weeks
+
 **Week Two:** Mini Hackathon 
 
 - **Prioritize 1–3 themes or sub-problems**
 
 	Choose 1-3 sub-problems to prioritize working on. Quick vote using impact vs. effort or community value vs. feasibility.
+
+- **What would success look like?**
+
+	Simple outcomes or signals (*e.g., fewer missed appointments; faster sign-ups; clearer info*).
+	It's okay if you don't know (*if you don't know, then we recommend talking to users to find out*).
 
 - **Brainstorm freely**
 
