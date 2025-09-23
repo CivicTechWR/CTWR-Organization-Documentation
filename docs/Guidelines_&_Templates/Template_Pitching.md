@@ -10,13 +10,13 @@ hide:
 
 - **Who is allowed to pitch:** Beginners, students, public-sector folks, nonprofits, and curious neighbours — everyone is welcome.
 
+## Your 3-minute pitch outline 
+
 - **What to focus on (problem > solution)**
 
 	- Prioritize the problem context (not your solution idea). That helps us apply design thinking and invites diverse solutions.
 
 	- It’s also okay if you want to test an idea or “hack a solution” together—just anchor it in the problem and who’s affected.
-
-## Your 3-minute pitch outline 
 
 - **Who is affected by this problem?**
 
@@ -48,30 +48,38 @@ hide:
 - Expect clarifying questions about scope, users, constraints, and success criteria.
 - If you don’t know, say so—that’s great input for discovery.
 
-## After the pitch: breakout & next steps
+## After the pitch: breakout session (same day) & next steps (next few weeks)
 
 We’ll form a small group around your problem to workshop and plan. Use this flow:
 
-1. **Cluster insights**
+**Week One: Breakout Session (same week as pitch)**
+
+1. **Discuss the pitch. Ask more questions**
+
+2. **Cluster insights**
 
 	Categories the information you discovered about the problem. Put facts and observations on sticky notes (physical or digital) and group into themes. End with a few sub-problems.
 
-2. **Prioritize 1–3 themes or sub-problems**
+**Week Two: Mini Hackathon** 
+
+3. **Prioritize 1–3 themes or sub-problems**
 
 	  Choose 1-3 sub-problems to prioritize working on. Quick vote using impact vs. effort or community value vs. feasibility.
 
-3. **Brainstorm freely**
+4. **Brainstorm freely**
 
 	  Spend 5–7 minutes of silent idea-generation, then share. Go for quantity, not polish or quality. For example "we'll bring polar bears to scare politicans into action on Climate Change" is totally acceptable idea at this stage.
 
-4. **Choose a solution to test**
+5. **Choose a solution to test**
 
 	  Choose 1–2 ideas. Define the smallest testable prototype (MVP) for the hack night.
 
-5. **Plan the prototype**
+6. **Plan the prototype**
 
 	  Who’s doing what by when? What data/access is needed? How will we measure success?
 
-6. **Test → learn → iterate**
+**Weeks Three to Eleven: Work on Project** 
+
+7. **Test → learn → iterate**
 
 	  Do quick user checks. You can ask the community for critique and feedback, or user test directly with the right users. Capture learnings and plan the next loop. Then repeat
