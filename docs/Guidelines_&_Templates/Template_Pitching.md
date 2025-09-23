@@ -1,5 +1,5 @@
 ---
-title: Templates for Pitching Problems & Ideas at the beginging of the season
+title: How to Pitch a Problem at Civic Tech WR
 hide:
 ---
 # How to Pitch a Problem at Civic Tech WR
@@ -17,7 +17,7 @@ hide:
 
 - Who is affected by this problem?
 
- - Name the people or groups, and where they are (e.g., “seniors in Kitchener who rely on buses after 9pm”).
+	- Name the people or groups, and where they are (e.g., “seniors in Kitchener who rely on buses after 9pm”).
 
 - Why does this problem matter now? 
  - What’s changed or urgent? Any time-bound opportunity or risk?
@@ -42,7 +42,7 @@ We’ll form a small group around your problem to workshop and plan. Use this fl
 
 1. Cluster insights
 
-  Categories the information you discovered about the problem. Put facts and observations on sticky notes (physical or digital) and group into themes. End with a few sub-problems.
+	Categories the information you discovered about the problem. Put facts and observations on sticky notes (physical or digital) and group into themes. End with a few sub-problems.
 
 2. Prioritize 1–3 themes or sub-problems
   Choose 1-3 sub-problems to priortize working on. Quick vote using impact vs. effort or community value vs. feasibility.
