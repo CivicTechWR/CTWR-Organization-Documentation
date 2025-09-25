@@ -12,7 +12,7 @@ hide:
 
 ## Your 3-minute pitch outline 
 
-1. **What is it?**
+1. **What is it? (the problem you'd like to solve)**
 
 	- Focus on problem > solution. Prioritize the problem context (not your solution idea). That helps us apply design thinking and invites diverse solutions.
 
@@ -35,7 +35,7 @@ hide:
 
 	Data, introductions, volunteers with certain skills, user interviews, etc.
 
-6. **What are you bringing (give back)?**
+6. **What are you bringing to the table? (giving back to CTWR)**
 
 	Time, domain knowledge, user access, data, story, test space, feedback cadence, or sponsorship.
 
